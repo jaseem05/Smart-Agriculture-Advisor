@@ -1,0 +1,2001 @@
+Year,Crop_Name,Month,Market_Price_per_kg,Demand,State
+2025,Sugarcane,July,54.25,Medium,Kerala
+2025,Cabbage,April,27.82,Low,Andhra Pradesh
+2025,Corn,December,23.25,Low,Gujarat
+2025,Carrot,March,84.82,High,Gujarat
+2025,Mango,November,59.71,Medium,Karnataka
+2025,Potato,September,42.53,Medium,Rajasthan
+2025,Potato,December,41.97,Medium,Telangana
+2025,Sugarcane,July,64.45,Medium,Rajasthan
+2025,Cabbage,December,15.95,Low,Tamil Nadu
+2025,Corn,October,14.91,Low,Andhra Pradesh
+2025,Cabbage,April,87.29,High,Telangana
+2025,Banana,August,49.88,Medium,Uttar Pradesh
+2025,Cabbage,April,47.67,Medium,Karnataka
+2025,Rice,October,137.72,High,Andhra Pradesh
+2025,Beans,September,38.63,Medium,Telangana
+2025,Chilli,October,13.76,Low,Kerala
+2025,Rice,July,54.07,Medium,Telangana
+2025,Cotton,July,12.51,Low,Tamil Nadu
+2025,Wheat,November,18.85,Low,Uttar Pradesh
+2025,Carrot,April,149.69,High,Gujarat
+2025,Corn,December,89.67,High,Rajasthan
+2025,Potato,September,92.03,High,Andhra Pradesh
+2025,Corn,May,66.25,Medium,Andhra Pradesh
+2025,Banana,April,14.79,Low,Andhra Pradesh
+2025,Cotton,January,11.34,Low,Kerala
+2025,Chilli,December,40.57,Medium,Rajasthan
+2025,Carrot,January,18.47,Low,Karnataka
+2025,Cabbage,January,88.84,High,Karnataka
+2025,Mango,October,22.11,Low,Gujarat
+2025,Beans,June,26.2,Low,Andhra Pradesh
+2025,Rice,January,43.07,Medium,Uttar Pradesh
+2025,Chilli,April,140.34,High,Andhra Pradesh
+2025,Tomato,May,67.38,Medium,Karnataka
+2025,Beans,November,117.74,High,Uttar Pradesh
+2025,Rice,February,65.34,Medium,Maharashtra
+2025,Potato,July,16.49,Low,Rajasthan
+2025,Groundnut,December,63.95,Medium,Andhra Pradesh
+2025,Sugarcane,December,119.24,High,Maharashtra
+2025,Beans,March,57.65,Medium,Rajasthan
+2025,Cabbage,March,61.99,Medium,Tamil Nadu
+2025,Cabbage,February,35.63,Medium,Telangana
+2025,Mango,October,127.35,High,Karnataka
+2025,Groundnut,November,130.27,High,Tamil Nadu
+2025,Banana,November,99.65,High,Telangana
+2025,Beans,February,98.99,High,Punjab
+2025,Chilli,April,10.59,Low,Maharashtra
+2025,Potato,January,67.58,Medium,Andhra Pradesh
+2025,Banana,August,19.7,Low,Tamil Nadu
+2025,Onion,December,35.95,Medium,Rajasthan
+2025,Beans,June,24.38,Low,Punjab
+2025,Cotton,May,80.03,High,Punjab
+2025,Wheat,June,30.04,Medium,Karnataka
+2025,Onion,June,142.31,High,Maharashtra
+2025,Rice,January,147.49,High,Telangana
+2025,Corn,October,137.5,High,Karnataka
+2025,Wheat,April,61.44,Medium,Uttar Pradesh
+2025,Wheat,August,136.08,High,Karnataka
+2025,Chilli,April,129.17,High,Andhra Pradesh
+2025,Rice,April,106.67,High,Kerala
+2025,Cabbage,May,29.81,Low,Tamil Nadu
+2025,Potato,August,80.77,High,Rajasthan
+2025,Sugarcane,March,41.55,Medium,Kerala
+2025,Cotton,January,43.42,Medium,Punjab
+2025,Groundnut,July,77.08,High,Rajasthan
+2025,Cotton,April,10.18,Low,Kerala
+2025,Groundnut,July,19.27,Low,Maharashtra
+2025,Banana,June,133.09,High,Uttar Pradesh
+2025,Beans,April,15.76,Low,Gujarat
+2025,Mango,October,72.2,High,Karnataka
+2025,Carrot,October,117.72,High,Punjab
+2025,Cotton,May,23.88,Low,Tamil Nadu
+2025,Carrot,November,90.4,High,Maharashtra
+2025,Cabbage,February,113.85,High,Punjab
+2025,Cotton,January,96.46,High,Maharashtra
+2025,Groundnut,October,141.25,High,Maharashtra
+2025,Sugarcane,July,55.21,Medium,Rajasthan
+2025,Cabbage,March,79.15,High,Andhra Pradesh
+2025,Potato,October,21.04,Low,Rajasthan
+2025,Beans,September,128.56,High,Maharashtra
+2025,Banana,February,59.64,Medium,Tamil Nadu
+2025,Sugarcane,October,27.04,Low,Kerala
+2025,Mango,June,10.19,Low,Gujarat
+2025,Banana,January,17.21,Low,Uttar Pradesh
+2025,Onion,February,71.93,High,Kerala
+2025,Groundnut,June,15.59,Low,Andhra Pradesh
+2025,Onion,February,71.44,High,Tamil Nadu
+2025,Wheat,July,143.53,High,Karnataka
+2025,Chilli,November,38.8,Medium,Maharashtra
+2025,Cotton,March,72.26,High,Punjab
+2025,Potato,April,141.01,High,Andhra Pradesh
+2025,Chilli,April,147.41,High,Rajasthan
+2025,Sugarcane,July,102.96,High,Tamil Nadu
+2025,Mango,February,27.69,Low,Tamil Nadu
+2025,Mango,November,58.17,Medium,Maharashtra
+2025,Rice,March,67.21,Medium,Karnataka
+2025,Potato,January,42.45,Medium,Punjab
+2025,Cotton,July,62.77,Medium,Telangana
+2025,Mango,September,25.23,Low,Rajasthan
+2025,Sugarcane,June,36.72,Medium,Karnataka
+2025,Tomato,June,13.92,Low,Kerala
+2025,Mango,August,67.89,Medium,Tamil Nadu
+2025,Sugarcane,May,65.42,Medium,Tamil Nadu
+2025,Onion,May,34.6,Medium,Kerala
+2025,Tomato,October,25.49,Low,Telangana
+2025,Tomato,December,24.47,Low,Maharashtra
+2025,Tomato,August,75.2,High,Kerala
+2025,Tomato,April,101.14,High,Rajasthan
+2025,Rice,March,29.62,Low,Gujarat
+2025,Corn,February,61.07,Medium,Punjab
+2025,Onion,July,82.64,High,Karnataka
+2025,Onion,September,108.97,High,Maharashtra
+2025,Rice,January,49.28,Medium,Tamil Nadu
+2025,Potato,October,15.3,Low,Telangana
+2025,Cabbage,June,69.88,Medium,Uttar Pradesh
+2025,Groundnut,January,114.67,High,Rajasthan
+2025,Beans,July,41.37,Medium,Rajasthan
+2025,Tomato,June,15.13,Low,Telangana
+2025,Banana,February,97.69,High,Kerala
+2025,Corn,November,47.87,Medium,Tamil Nadu
+2025,Carrot,February,28.48,Low,Andhra Pradesh
+2025,Sugarcane,November,146.32,High,Uttar Pradesh
+2025,Mango,June,35.61,Medium,Kerala
+2025,Groundnut,May,32.95,Medium,Tamil Nadu
+2025,Carrot,April,50.54,Medium,Rajasthan
+2025,Corn,July,23.41,Low,Tamil Nadu
+2025,Cabbage,July,90.91,High,Gujarat
+2025,Corn,September,24.74,Low,Kerala
+2025,Groundnut,December,57.94,Medium,Telangana
+2025,Mango,October,114.53,High,Maharashtra
+2025,Carrot,July,120.81,High,Punjab
+2025,Chilli,May,66.73,Medium,Maharashtra
+2025,Wheat,November,134.59,High,Gujarat
+2025,Groundnut,June,66.98,Medium,Andhra Pradesh
+2025,Banana,December,31.17,Medium,Andhra Pradesh
+2025,Sugarcane,January,67.93,Medium,Uttar Pradesh
+2025,Tomato,December,10.51,Low,Gujarat
+2025,Groundnut,September,114.5,High,Kerala
+2025,Wheat,November,139.35,High,Uttar Pradesh
+2025,Cotton,November,11.8,Low,Kerala
+2025,Groundnut,September,26.23,Low,Uttar Pradesh
+2025,Banana,December,21.31,Low,Rajasthan
+2025,Mango,June,10.27,Low,Andhra Pradesh
+2025,Sugarcane,October,10.5,Low,Tamil Nadu
+2025,Banana,July,56.97,Medium,Kerala
+2025,Wheat,October,13.84,Low,Maharashtra
+2025,Cotton,July,49.13,Medium,Kerala
+2025,Corn,October,20.62,Low,Punjab
+2025,Wheat,April,67.81,Medium,Punjab
+2025,Wheat,January,25.84,Low,Rajasthan
+2025,Wheat,August,49.27,Medium,Gujarat
+2025,Onion,January,39.02,Medium,Tamil Nadu
+2025,Onion,July,23.41,Low,Kerala
+2025,Cabbage,December,76.68,High,Punjab
+2025,Cabbage,May,57.32,Medium,Kerala
+2025,Beans,February,100.29,High,Andhra Pradesh
+2025,Sugarcane,October,52.43,Medium,Rajasthan
+2025,Sugarcane,April,10.66,Low,Rajasthan
+2025,Mango,October,27.35,Low,Punjab
+2025,Chilli,May,55.1,Medium,Telangana
+2025,Tomato,September,14.02,Low,Tamil Nadu
+2025,Sugarcane,July,50.36,Medium,Maharashtra
+2025,Sugarcane,April,113.17,High,Karnataka
+2025,Banana,January,148.94,High,Maharashtra
+2025,Corn,August,18.12,Low,Telangana
+2025,Mango,June,123.86,High,Uttar Pradesh
+2025,Chilli,May,25.28,Low,Andhra Pradesh
+2025,Banana,December,44.7,Medium,Uttar Pradesh
+2025,Chilli,June,11.69,Low,Kerala
+2025,Carrot,January,19.04,Low,Tamil Nadu
+2025,Potato,September,12.15,Low,Punjab
+2025,Tomato,December,12.87,Low,Punjab
+2025,Banana,May,15.95,Low,Tamil Nadu
+2025,Sugarcane,July,148.61,High,Telangana
+2025,Mango,February,38.82,Medium,Uttar Pradesh
+2025,Mango,May,13.76,Low,Punjab
+2025,Cabbage,March,44.05,Medium,Telangana
+2025,Banana,February,36.05,Medium,Karnataka
+2025,Wheat,November,80.03,High,Punjab
+2025,Carrot,August,34.05,Medium,Maharashtra
+2025,Cotton,May,76.31,High,Telangana
+2025,Onion,July,48.4,Medium,Gujarat
+2025,Onion,February,61.99,Medium,Gujarat
+2025,Cotton,October,26.59,Low,Uttar Pradesh
+2025,Onion,March,60.63,Medium,Maharashtra
+2025,Groundnut,November,23.93,Low,Andhra Pradesh
+2025,Groundnut,February,14.3,Low,Gujarat
+2025,Groundnut,July,79.94,High,Andhra Pradesh
+2025,Potato,December,42.03,Medium,Uttar Pradesh
+2025,Sugarcane,March,17.75,Low,Gujarat
+2025,Chilli,May,10.63,Low,Maharashtra
+2025,Sugarcane,October,39.91,Medium,Kerala
+2025,Banana,November,20.59,Low,Karnataka
+2025,Onion,May,137.09,High,Kerala
+2025,Sugarcane,July,77.35,High,Karnataka
+2025,Cotton,August,17.73,Low,Tamil Nadu
+2025,Cabbage,June,140.9,High,Tamil Nadu
+2025,Tomato,December,122.18,High,Tamil Nadu
+2025,Cotton,March,31.3,Medium,Gujarat
+2025,Beans,September,26.28,Low,Tamil Nadu
+2025,Groundnut,July,13.45,Low,Rajasthan
+2025,Beans,January,39.99,Medium,Uttar Pradesh
+2025,Cabbage,September,31.81,Medium,Tamil Nadu
+2025,Beans,July,52.94,Medium,Telangana
+2025,Onion,September,16.64,Low,Tamil Nadu
+2025,Beans,April,53.42,Medium,Maharashtra
+2025,Rice,April,83.16,High,Punjab
+2025,Onion,October,66.22,Medium,Karnataka
+2025,Rice,September,13.44,Low,Kerala
+2025,Banana,November,106.62,High,Maharashtra
+2025,Cabbage,January,27.42,Low,Punjab
+2025,Sugarcane,June,21.26,Low,Uttar Pradesh
+2025,Mango,April,55.64,Medium,Andhra Pradesh
+2025,Potato,July,11.97,Low,Maharashtra
+2025,Cotton,July,67.66,Medium,Gujarat
+2025,Beans,November,20.38,Low,Telangana
+2025,Groundnut,September,56.51,Medium,Telangana
+2025,Beans,March,27.99,Low,Maharashtra
+2025,Carrot,September,88.68,High,Karnataka
+2025,Banana,January,60.27,Medium,Punjab
+2025,Groundnut,June,28.81,Low,Tamil Nadu
+2025,Rice,December,20.31,Low,Uttar Pradesh
+2025,Potato,August,112.95,High,Gujarat
+2025,Beans,October,32.34,Medium,Andhra Pradesh
+2025,Cotton,January,94.04,High,Tamil Nadu
+2025,Sugarcane,April,10.5,Low,Punjab
+2025,Groundnut,April,29.4,Low,Andhra Pradesh
+2025,Corn,May,65.79,Medium,Kerala
+2025,Chilli,January,58.2,Medium,Maharashtra
+2025,Banana,April,36.81,Medium,Punjab
+2025,Chilli,January,89.1,High,Maharashtra
+2025,Groundnut,March,106.21,High,Gujarat
+2025,Mango,March,81.07,High,Gujarat
+2025,Wheat,October,21.21,Low,Punjab
+2025,Banana,September,92.78,High,Uttar Pradesh
+2025,Mango,September,38.14,Medium,Uttar Pradesh
+2025,Wheat,September,112.33,High,Uttar Pradesh
+2025,Wheat,March,35.69,Medium,Karnataka
+2025,Potato,March,19.02,Low,Uttar Pradesh
+2025,Tomato,January,13.58,Low,Rajasthan
+2025,Mango,February,76.96,High,Kerala
+2025,Beans,April,58.06,Medium,Rajasthan
+2025,Onion,September,34.22,Medium,Rajasthan
+2025,Groundnut,June,18.56,Low,Gujarat
+2025,Wheat,August,12.47,Low,Gujarat
+2025,Potato,December,22.66,Low,Tamil Nadu
+2025,Chilli,September,34.28,Medium,Punjab
+2025,Sugarcane,May,12.91,Low,Punjab
+2025,Chilli,April,145.19,High,Andhra Pradesh
+2025,Banana,May,59.22,Medium,Tamil Nadu
+2025,Onion,June,14.41,Low,Kerala
+2025,Wheat,March,34.87,Medium,Andhra Pradesh
+2025,Cotton,April,76.69,High,Rajasthan
+2025,Rice,June,26.8,Low,Karnataka
+2025,Carrot,March,65.89,Medium,Telangana
+2025,Banana,June,21.96,Low,Gujarat
+2025,Groundnut,April,15.17,Low,Rajasthan
+2025,Beans,January,28.26,Low,Karnataka
+2025,Cotton,January,111.57,High,Telangana
+2025,Rice,May,14.64,Low,Punjab
+2025,Corn,October,18.87,Low,Karnataka
+2025,Potato,February,127.24,High,Tamil Nadu
+2025,Rice,July,100.69,High,Andhra Pradesh
+2025,Onion,January,60.34,Medium,Punjab
+2025,Sugarcane,July,17.54,Low,Telangana
+2025,Groundnut,February,109.59,High,Uttar Pradesh
+2025,Tomato,September,12.45,Low,Karnataka
+2025,Chilli,March,142.74,High,Andhra Pradesh
+2025,Sugarcane,July,104.96,High,Tamil Nadu
+2025,Sugarcane,October,73.38,High,Telangana
+2025,Carrot,February,34.29,Medium,Punjab
+2025,Banana,November,78.4,High,Telangana
+2025,Wheat,May,76.24,High,Telangana
+2025,Rice,August,20.6,Low,Maharashtra
+2025,Cabbage,July,10.08,Low,Andhra Pradesh
+2025,Corn,October,55.15,Medium,Punjab
+2025,Corn,January,136.73,High,Tamil Nadu
+2025,Cabbage,June,94.69,High,Punjab
+2025,Mango,February,13.82,Low,Punjab
+2025,Rice,October,26.88,Low,Telangana
+2025,Cotton,December,33.57,Medium,Andhra Pradesh
+2025,Banana,July,90.16,High,Gujarat
+2025,Rice,February,48.17,Medium,Kerala
+2025,Sugarcane,May,30.43,Medium,Punjab
+2025,Banana,March,147.31,High,Punjab
+2025,Potato,November,102.51,High,Uttar Pradesh
+2025,Carrot,January,92.08,High,Uttar Pradesh
+2025,Sugarcane,March,12.37,Low,Uttar Pradesh
+2025,Banana,March,36.15,Medium,Karnataka
+2025,Beans,August,69.39,Medium,Kerala
+2025,Banana,June,135.09,High,Kerala
+2025,Chilli,September,18.26,Low,Maharashtra
+2025,Onion,December,58.07,Medium,Maharashtra
+2025,Cabbage,January,70.16,High,Punjab
+2025,Sugarcane,February,74.84,High,Tamil Nadu
+2025,Beans,December,37.47,Medium,Karnataka
+2025,Banana,January,19.92,Low,Telangana
+2025,Corn,November,102.54,High,Andhra Pradesh
+2025,Cotton,January,15.18,Low,Andhra Pradesh
+2025,Tomato,August,56.34,Medium,Kerala
+2025,Chilli,May,67.98,Medium,Gujarat
+2025,Wheat,November,45.32,Medium,Karnataka
+2025,Banana,January,12.91,Low,Gujarat
+2025,Mango,January,27.87,Low,Uttar Pradesh
+2025,Onion,October,109.23,High,Karnataka
+2025,Cotton,April,145.86,High,Maharashtra
+2025,Carrot,October,41.54,Medium,Telangana
+2025,Onion,January,78.5,High,Rajasthan
+2025,Cabbage,November,75.38,High,Uttar Pradesh
+2025,Carrot,May,21.54,Low,Uttar Pradesh
+2025,Groundnut,June,29.66,Low,Telangana
+2025,Banana,May,58.09,Medium,Gujarat
+2025,Cotton,February,79.01,High,Tamil Nadu
+2025,Chilli,July,58.46,Medium,Telangana
+2025,Carrot,January,146.87,High,Maharashtra
+2025,Wheat,December,40.39,Medium,Uttar Pradesh
+2025,Corn,September,128.8,High,Karnataka
+2025,Groundnut,December,54.49,Medium,Karnataka
+2025,Mango,October,43.36,Medium,Gujarat
+2025,Cotton,June,21.86,Low,Andhra Pradesh
+2025,Rice,June,145.44,High,Rajasthan
+2025,Cabbage,September,140.39,High,Karnataka
+2025,Carrot,June,98.21,High,Kerala
+2025,Wheat,July,72.52,High,Andhra Pradesh
+2025,Chilli,March,104.01,High,Tamil Nadu
+2025,Mango,May,137.41,High,Tamil Nadu
+2025,Sugarcane,October,41.56,Medium,Uttar Pradesh
+2025,Chilli,September,60.78,Medium,Uttar Pradesh
+2025,Groundnut,April,65.22,Medium,Telangana
+2025,Mango,January,33.43,Medium,Kerala
+2025,Cotton,June,44.55,Medium,Karnataka
+2025,Wheat,June,29.02,Low,Rajasthan
+2025,Corn,April,16.85,Low,Karnataka
+2025,Rice,November,39.91,Medium,Tamil Nadu
+2025,Groundnut,July,24.27,Low,Karnataka
+2025,Sugarcane,May,35.7,Medium,Telangana
+2025,Tomato,May,12.46,Low,Tamil Nadu
+2025,Chilli,January,51.84,Medium,Tamil Nadu
+2025,Onion,September,107.5,High,Uttar Pradesh
+2025,Onion,July,101.13,High,Telangana
+2025,Onion,July,111.2,High,Andhra Pradesh
+2025,Groundnut,July,50.59,Medium,Telangana
+2025,Potato,November,16.77,Low,Punjab
+2025,Tomato,January,10.4,Low,Rajasthan
+2025,Mango,June,10.0,Low,Andhra Pradesh
+2025,Groundnut,March,95.53,High,Tamil Nadu
+2025,Rice,January,97.25,High,Maharashtra
+2025,Wheat,February,14.27,Low,Telangana
+2025,Corn,February,69.55,Medium,Rajasthan
+2025,Chilli,August,29.54,Low,Kerala
+2025,Chilli,November,144.65,High,Kerala
+2025,Onion,December,141.59,High,Rajasthan
+2025,Wheat,May,64.98,Medium,Uttar Pradesh
+2025,Sugarcane,February,49.04,Medium,Telangana
+2025,Corn,January,12.62,Low,Karnataka
+2025,Rice,March,53.0,Medium,Uttar Pradesh
+2025,Rice,July,128.29,High,Rajasthan
+2025,Beans,December,35.96,Medium,Telangana
+2025,Beans,December,92.77,High,Tamil Nadu
+2025,Rice,November,11.75,Low,Telangana
+2025,Tomato,July,146.15,High,Karnataka
+2025,Beans,November,46.02,Medium,Gujarat
+2025,Groundnut,June,23.58,Low,Kerala
+2025,Rice,February,42.26,Medium,Andhra Pradesh
+2025,Cotton,January,18.62,Low,Andhra Pradesh
+2025,Tomato,November,40.48,Medium,Karnataka
+2025,Mango,April,11.83,Low,Punjab
+2025,Cotton,January,145.89,High,Maharashtra
+2025,Mango,February,64.02,Medium,Kerala
+2025,Rice,September,25.68,Low,Karnataka
+2025,Mango,January,111.64,High,Uttar Pradesh
+2025,Beans,April,98.78,High,Maharashtra
+2025,Tomato,October,64.22,Medium,Punjab
+2025,Beans,October,21.18,Low,Gujarat
+2025,Chilli,December,83.84,High,Punjab
+2025,Groundnut,December,132.5,High,Tamil Nadu
+2025,Carrot,July,51.18,Medium,Andhra Pradesh
+2025,Tomato,February,65.2,Medium,Uttar Pradesh
+2025,Carrot,October,12.76,Low,Karnataka
+2025,Tomato,June,73.41,High,Rajasthan
+2025,Mango,September,19.67,Low,Uttar Pradesh
+2025,Beans,March,38.59,Medium,Uttar Pradesh
+2025,Corn,April,135.16,High,Karnataka
+2025,Chilli,August,68.87,Medium,Tamil Nadu
+2025,Cotton,October,12.91,Low,Uttar Pradesh
+2025,Cabbage,September,68.53,Medium,Uttar Pradesh
+2025,Corn,April,126.28,High,Gujarat
+2025,Beans,May,58.52,Medium,Maharashtra
+2025,Wheat,June,147.17,High,Kerala
+2025,Banana,April,19.31,Low,Uttar Pradesh
+2025,Corn,May,22.68,Low,Andhra Pradesh
+2025,Chilli,June,126.94,High,Gujarat
+2025,Wheat,December,68.78,Medium,Kerala
+2025,Chilli,December,53.72,Medium,Karnataka
+2025,Banana,October,27.29,Low,Karnataka
+2025,Onion,November,13.77,Low,Kerala
+2025,Tomato,August,37.3,Medium,Rajasthan
+2025,Banana,November,18.17,Low,Maharashtra
+2025,Groundnut,May,143.2,High,Telangana
+2025,Corn,December,28.5,Low,Telangana
+2025,Chilli,March,40.95,Medium,Kerala
+2025,Groundnut,October,147.15,High,Kerala
+2025,Rice,February,40.84,Medium,Karnataka
+2025,Cabbage,September,85.92,High,Andhra Pradesh
+2025,Cotton,May,25.22,Low,Andhra Pradesh
+2025,Sugarcane,January,85.05,High,Kerala
+2025,Mango,December,27.9,Low,Punjab
+2025,Wheat,August,37.04,Medium,Rajasthan
+2025,Corn,May,50.69,Medium,Kerala
+2025,Corn,December,27.78,Low,Tamil Nadu
+2025,Cabbage,November,49.27,Medium,Andhra Pradesh
+2025,Chilli,August,81.03,High,Andhra Pradesh
+2025,Groundnut,December,122.61,High,Karnataka
+2025,Cabbage,October,115.27,High,Karnataka
+2025,Carrot,October,64.76,Medium,Karnataka
+2025,Mango,September,85.16,High,Rajasthan
+2025,Onion,March,40.47,Medium,Uttar Pradesh
+2025,Corn,January,42.17,Medium,Maharashtra
+2025,Cabbage,November,86.29,High,Tamil Nadu
+2025,Corn,February,115.7,High,Telangana
+2025,Rice,September,38.42,Medium,Karnataka
+2025,Tomato,March,21.28,Low,Telangana
+2025,Banana,April,46.19,Medium,Gujarat
+2025,Chilli,July,102.79,High,Uttar Pradesh
+2025,Cotton,April,15.32,Low,Rajasthan
+2025,Beans,December,26.13,Low,Maharashtra
+2025,Onion,September,78.92,High,Gujarat
+2025,Groundnut,September,63.63,Medium,Karnataka
+2025,Chilli,June,15.63,Low,Maharashtra
+2025,Rice,April,103.15,High,Andhra Pradesh
+2025,Banana,July,81.47,High,Tamil Nadu
+2025,Banana,March,69.37,Medium,Maharashtra
+2025,Sugarcane,August,17.6,Low,Maharashtra
+2025,Onion,July,36.34,Medium,Andhra Pradesh
+2025,Cotton,February,15.71,Low,Maharashtra
+2025,Potato,August,84.22,High,Telangana
+2025,Corn,July,39.67,Medium,Telangana
+2025,Banana,March,67.75,Medium,Andhra Pradesh
+2025,Rice,February,89.78,High,Telangana
+2025,Rice,September,27.49,Low,Rajasthan
+2025,Tomato,February,20.63,Low,Punjab
+2025,Onion,August,83.74,High,Punjab
+2025,Rice,April,28.85,Low,Tamil Nadu
+2025,Carrot,December,113.39,High,Andhra Pradesh
+2025,Cabbage,January,30.23,Medium,Telangana
+2025,Banana,February,22.49,Low,Gujarat
+2025,Rice,October,69.94,Medium,Andhra Pradesh
+2025,Mango,March,102.64,High,Telangana
+2025,Cabbage,May,30.7,Medium,Maharashtra
+2025,Banana,December,117.27,High,Rajasthan
+2025,Rice,January,22.67,Low,Maharashtra
+2025,Potato,September,21.79,Low,Tamil Nadu
+2025,Mango,March,65.49,Medium,Rajasthan
+2025,Banana,February,91.29,High,Punjab
+2025,Corn,July,14.22,Low,Karnataka
+2025,Chilli,November,97.77,High,Gujarat
+2025,Rice,January,127.4,High,Punjab
+2025,Potato,January,10.45,Low,Andhra Pradesh
+2025,Cotton,December,69.49,Medium,Andhra Pradesh
+2025,Corn,March,46.04,Medium,Tamil Nadu
+2025,Potato,July,120.67,High,Punjab
+2025,Corn,July,28.56,Low,Karnataka
+2025,Mango,June,18.89,Low,Punjab
+2025,Tomato,April,34.15,Medium,Karnataka
+2025,Corn,June,16.1,Low,Andhra Pradesh
+2025,Cotton,June,57.94,Medium,Uttar Pradesh
+2025,Mango,June,25.39,Low,Rajasthan
+2025,Carrot,October,19.3,Low,Uttar Pradesh
+2025,Banana,June,105.2,High,Uttar Pradesh
+2025,Potato,January,49.03,Medium,Tamil Nadu
+2025,Banana,April,28.66,Low,Tamil Nadu
+2025,Carrot,January,16.34,Low,Maharashtra
+2025,Wheat,August,36.65,Medium,Andhra Pradesh
+2025,Tomato,September,20.2,Low,Maharashtra
+2025,Rice,June,102.96,High,Kerala
+2025,Cabbage,February,63.95,Medium,Rajasthan
+2025,Sugarcane,March,48.71,Medium,Kerala
+2025,Wheat,May,103.4,High,Punjab
+2025,Onion,February,122.71,High,Andhra Pradesh
+2025,Banana,April,58.7,Medium,Tamil Nadu
+2025,Corn,August,37.79,Medium,Uttar Pradesh
+2025,Mango,November,126.25,High,Punjab
+2025,Wheat,October,27.24,Low,Punjab
+2025,Mango,February,123.04,High,Maharashtra
+2025,Potato,April,125.85,High,Andhra Pradesh
+2025,Banana,March,107.47,High,Maharashtra
+2025,Rice,November,40.1,Medium,Andhra Pradesh
+2025,Carrot,April,42.95,Medium,Uttar Pradesh
+2025,Banana,January,36.35,Medium,Karnataka
+2025,Banana,May,22.14,Low,Telangana
+2025,Potato,January,16.21,Low,Tamil Nadu
+2025,Potato,December,28.21,Low,Karnataka
+2025,Banana,March,78.43,High,Maharashtra
+2025,Sugarcane,September,67.88,Medium,Maharashtra
+2025,Beans,December,22.94,Low,Karnataka
+2025,Corn,November,145.87,High,Uttar Pradesh
+2025,Wheat,March,134.31,High,Rajasthan
+2025,Chilli,February,17.28,Low,Tamil Nadu
+2025,Onion,October,32.21,Medium,Kerala
+2025,Onion,May,12.91,Low,Karnataka
+2025,Cotton,October,53.65,Medium,Rajasthan
+2025,Sugarcane,January,22.92,Low,Telangana
+2025,Wheat,December,43.18,Medium,Tamil Nadu
+2025,Carrot,February,98.75,High,Uttar Pradesh
+2025,Banana,September,89.49,High,Punjab
+2025,Chilli,December,108.44,High,Karnataka
+2025,Chilli,March,110.9,High,Karnataka
+2025,Wheat,October,74.66,High,Andhra Pradesh
+2025,Onion,November,63.1,Medium,Andhra Pradesh
+2025,Groundnut,August,19.82,Low,Uttar Pradesh
+2025,Chilli,February,147.4,High,Kerala
+2025,Potato,December,58.25,Medium,Punjab
+2025,Wheat,January,11.45,Low,Telangana
+2025,Banana,September,54.97,Medium,Maharashtra
+2025,Rice,June,17.5,Low,Kerala
+2025,Potato,December,21.42,Low,Maharashtra
+2025,Rice,May,95.18,High,Punjab
+2025,Corn,April,16.77,Low,Rajasthan
+2025,Groundnut,September,22.14,Low,Uttar Pradesh
+2025,Sugarcane,July,123.42,High,Gujarat
+2025,Mango,December,17.28,Low,Kerala
+2025,Tomato,August,70.04,High,Uttar Pradesh
+2025,Carrot,January,22.66,Low,Kerala
+2025,Chilli,April,13.67,Low,Andhra Pradesh
+2025,Tomato,January,15.72,Low,Gujarat
+2025,Corn,May,28.47,Low,Rajasthan
+2025,Potato,December,120.28,High,Uttar Pradesh
+2025,Carrot,February,28.01,Low,Punjab
+2025,Beans,April,14.93,Low,Uttar Pradesh
+2025,Carrot,September,42.45,Medium,Telangana
+2025,Chilli,February,19.08,Low,Punjab
+2025,Mango,December,141.27,High,Telangana
+2025,Banana,January,68.43,Medium,Andhra Pradesh
+2025,Beans,July,36.1,Medium,Rajasthan
+2025,Corn,May,63.15,Medium,Punjab
+2025,Mango,May,51.29,Medium,Rajasthan
+2025,Beans,May,40.61,Medium,Telangana
+2025,Tomato,December,110.23,High,Andhra Pradesh
+2025,Tomato,September,144.54,High,Gujarat
+2025,Onion,August,87.15,High,Uttar Pradesh
+2025,Onion,November,23.5,Low,Andhra Pradesh
+2025,Onion,August,134.57,High,Rajasthan
+2025,Cotton,May,12.41,Low,Karnataka
+2025,Banana,January,105.14,High,Kerala
+2025,Cotton,December,58.92,Medium,Tamil Nadu
+2025,Onion,December,65.94,Medium,Maharashtra
+2025,Onion,November,23.65,Low,Punjab
+2025,Banana,May,145.24,High,Maharashtra
+2025,Carrot,March,27.04,Low,Karnataka
+2025,Sugarcane,May,101.32,High,Uttar Pradesh
+2025,Rice,April,27.96,Low,Karnataka
+2025,Potato,May,15.15,Low,Kerala
+2025,Rice,October,48.4,Medium,Maharashtra
+2025,Cabbage,June,59.69,Medium,Telangana
+2025,Beans,August,12.38,Low,Telangana
+2025,Groundnut,November,91.02,High,Karnataka
+2025,Wheat,May,133.09,High,Rajasthan
+2025,Cotton,September,45.78,Medium,Telangana
+2025,Rice,July,26.33,Low,Kerala
+2025,Mango,September,17.53,Low,Telangana
+2025,Mango,January,123.54,High,Telangana
+2025,Tomato,February,102.08,High,Maharashtra
+2025,Potato,January,34.25,Medium,Telangana
+2025,Beans,May,69.32,Medium,Rajasthan
+2025,Chilli,July,11.84,Low,Kerala
+2025,Beans,December,61.73,Medium,Uttar Pradesh
+2025,Rice,May,36.05,Medium,Kerala
+2025,Groundnut,February,120.08,High,Punjab
+2025,Sugarcane,October,15.47,Low,Karnataka
+2025,Tomato,February,15.76,Low,Kerala
+2025,Sugarcane,November,131.12,High,Karnataka
+2025,Banana,August,55.32,Medium,Uttar Pradesh
+2025,Tomato,October,24.47,Low,Andhra Pradesh
+2025,Sugarcane,May,21.1,Low,Kerala
+2025,Mango,November,17.82,Low,Gujarat
+2025,Cotton,March,40.08,Medium,Karnataka
+2025,Carrot,April,67.89,Medium,Kerala
+2025,Sugarcane,June,42.52,Medium,Punjab
+2025,Onion,September,14.87,Low,Telangana
+2025,Corn,September,25.43,Low,Andhra Pradesh
+2025,Carrot,March,63.34,Medium,Kerala
+2025,Corn,July,54.4,Medium,Tamil Nadu
+2025,Onion,April,13.45,Low,Tamil Nadu
+2025,Cabbage,September,40.96,Medium,Karnataka
+2025,Corn,May,113.01,High,Uttar Pradesh
+2025,Sugarcane,November,47.65,Medium,Gujarat
+2025,Mango,June,43.66,Medium,Maharashtra
+2025,Cotton,May,12.8,Low,Kerala
+2025,Wheat,May,65.93,Medium,Uttar Pradesh
+2025,Tomato,November,60.1,Medium,Maharashtra
+2025,Sugarcane,March,127.48,High,Karnataka
+2025,Cotton,March,18.8,Low,Tamil Nadu
+2025,Cotton,July,46.01,Medium,Karnataka
+2025,Corn,January,57.37,Medium,Uttar Pradesh
+2025,Cotton,February,92.44,High,Rajasthan
+2025,Corn,December,41.04,Medium,Kerala
+2025,Corn,October,74.22,High,Telangana
+2025,Wheat,May,22.91,Low,Karnataka
+2025,Potato,March,34.15,Medium,Telangana
+2025,Onion,March,84.75,High,Andhra Pradesh
+2025,Wheat,February,113.07,High,Andhra Pradesh
+2025,Mango,April,76.3,High,Gujarat
+2025,Chilli,June,53.64,Medium,Kerala
+2025,Rice,June,59.91,Medium,Tamil Nadu
+2025,Banana,June,48.6,Medium,Kerala
+2025,Carrot,July,14.0,Low,Andhra Pradesh
+2025,Corn,March,107.53,High,Kerala
+2025,Corn,January,17.37,Low,Karnataka
+2025,Rice,February,10.66,Low,Kerala
+2025,Wheat,December,13.42,Low,Uttar Pradesh
+2025,Corn,October,66.15,Medium,Karnataka
+2025,Wheat,September,11.62,Low,Kerala
+2025,Corn,January,119.8,High,Andhra Pradesh
+2025,Tomato,May,95.46,High,Tamil Nadu
+2025,Corn,August,57.65,Medium,Maharashtra
+2025,Wheat,April,115.34,High,Punjab
+2025,Chilli,May,88.09,High,Telangana
+2025,Potato,February,53.5,Medium,Andhra Pradesh
+2025,Onion,December,97.66,High,Karnataka
+2025,Potato,April,26.34,Low,Tamil Nadu
+2025,Sugarcane,October,90.89,High,Punjab
+2025,Potato,July,46.07,Medium,Maharashtra
+2025,Potato,May,26.09,Low,Karnataka
+2025,Groundnut,January,42.34,Medium,Punjab
+2025,Rice,June,24.46,Low,Karnataka
+2025,Corn,April,27.0,Low,Gujarat
+2025,Rice,September,10.97,Low,Karnataka
+2025,Tomato,November,27.78,Low,Andhra Pradesh
+2025,Beans,March,60.15,Medium,Telangana
+2025,Potato,December,54.03,Medium,Telangana
+2025,Corn,October,35.32,Medium,Maharashtra
+2025,Wheat,April,28.34,Low,Gujarat
+2025,Corn,June,50.65,Medium,Kerala
+2025,Sugarcane,July,52.38,Medium,Kerala
+2025,Banana,October,101.95,High,Tamil Nadu
+2025,Chilli,March,116.83,High,Telangana
+2025,Banana,July,45.66,Medium,Kerala
+2025,Onion,September,37.05,Medium,Maharashtra
+2025,Cotton,November,107.83,High,Andhra Pradesh
+2025,Groundnut,December,64.64,Medium,Andhra Pradesh
+2025,Tomato,November,96.29,High,Karnataka
+2025,Rice,October,77.5,High,Maharashtra
+2025,Groundnut,July,34.78,Medium,Punjab
+2025,Rice,December,121.86,High,Tamil Nadu
+2025,Banana,June,20.95,Low,Tamil Nadu
+2025,Carrot,May,25.07,Low,Punjab
+2025,Sugarcane,September,15.96,Low,Uttar Pradesh
+2025,Onion,March,14.67,Low,Gujarat
+2025,Beans,May,65.21,Medium,Rajasthan
+2025,Beans,June,124.59,High,Maharashtra
+2025,Potato,April,15.89,Low,Karnataka
+2025,Rice,November,19.41,Low,Uttar Pradesh
+2025,Sugarcane,August,66.23,Medium,Gujarat
+2025,Sugarcane,November,28.54,Low,Andhra Pradesh
+2025,Cotton,July,43.42,Medium,Maharashtra
+2025,Banana,September,12.09,Low,Maharashtra
+2025,Sugarcane,May,55.21,Medium,Punjab
+2025,Cotton,January,149.66,High,Karnataka
+2025,Wheat,April,104.21,High,Karnataka
+2025,Beans,June,22.18,Low,Rajasthan
+2025,Beans,November,148.13,High,Gujarat
+2025,Corn,November,87.86,High,Rajasthan
+2025,Tomato,October,20.97,Low,Punjab
+2025,Onion,January,11.14,Low,Uttar Pradesh
+2025,Corn,September,30.34,Medium,Rajasthan
+2025,Wheat,January,102.02,High,Karnataka
+2025,Tomato,May,135.14,High,Telangana
+2025,Sugarcane,February,74.48,High,Telangana
+2025,Beans,June,76.49,High,Karnataka
+2025,Corn,June,29.31,Low,Punjab
+2025,Banana,April,12.56,Low,Uttar Pradesh
+2025,Rice,July,43.58,Medium,Tamil Nadu
+2025,Groundnut,August,18.45,Low,Rajasthan
+2025,Tomato,March,49.45,Medium,Tamil Nadu
+2025,Rice,July,36.99,Medium,Maharashtra
+2025,Mango,August,16.27,Low,Punjab
+2025,Cabbage,June,135.45,High,Maharashtra
+2025,Cotton,July,43.8,Medium,Maharashtra
+2025,Carrot,November,10.81,Low,Rajasthan
+2025,Beans,July,40.56,Medium,Kerala
+2025,Rice,August,16.05,Low,Tamil Nadu
+2025,Carrot,December,15.14,Low,Andhra Pradesh
+2025,Chilli,April,48.93,Medium,Kerala
+2025,Cabbage,November,106.13,High,Rajasthan
+2025,Mango,July,82.11,High,Uttar Pradesh
+2025,Cotton,April,67.22,Medium,Uttar Pradesh
+2025,Chilli,September,26.88,Low,Maharashtra
+2025,Cabbage,November,113.85,High,Tamil Nadu
+2025,Potato,May,63.69,Medium,Maharashtra
+2025,Chilli,June,20.75,Low,Tamil Nadu
+2025,Onion,October,147.51,High,Gujarat
+2025,Corn,February,27.96,Low,Telangana
+2025,Carrot,February,13.26,Low,Gujarat
+2025,Cabbage,June,24.99,Low,Andhra Pradesh
+2025,Beans,June,53.1,Medium,Andhra Pradesh
+2025,Potato,October,12.05,Low,Uttar Pradesh
+2025,Beans,February,60.57,Medium,Gujarat
+2025,Banana,February,56.11,Medium,Rajasthan
+2025,Banana,April,116.4,High,Maharashtra
+2025,Cabbage,May,61.58,Medium,Andhra Pradesh
+2025,Potato,February,73.65,High,Uttar Pradesh
+2025,Potato,November,50.64,Medium,Gujarat
+2025,Cabbage,September,28.54,Low,Karnataka
+2025,Sugarcane,May,54.27,Medium,Maharashtra
+2025,Groundnut,July,100.7,High,Andhra Pradesh
+2025,Sugarcane,September,15.03,Low,Gujarat
+2025,Cabbage,June,125.53,High,Rajasthan
+2025,Sugarcane,July,121.77,High,Tamil Nadu
+2025,Rice,November,13.43,Low,Gujarat
+2025,Cotton,October,87.04,High,Andhra Pradesh
+2025,Cabbage,July,51.2,Medium,Maharashtra
+2025,Corn,October,104.62,High,Andhra Pradesh
+2025,Mango,December,37.92,Medium,Kerala
+2025,Beans,February,28.44,Low,Karnataka
+2025,Tomato,November,27.19,Low,Uttar Pradesh
+2025,Sugarcane,June,98.14,High,Punjab
+2025,Corn,May,41.54,Medium,Uttar Pradesh
+2025,Rice,October,88.32,High,Kerala
+2025,Onion,February,69.08,Medium,Tamil Nadu
+2025,Onion,May,49.72,Medium,Kerala
+2025,Carrot,March,36.17,Medium,Telangana
+2025,Chilli,November,57.6,Medium,Tamil Nadu
+2025,Carrot,July,13.21,Low,Uttar Pradesh
+2025,Wheat,August,45.89,Medium,Maharashtra
+2025,Banana,March,39.86,Medium,Punjab
+2025,Tomato,June,147.73,High,Karnataka
+2025,Banana,July,35.36,Medium,Telangana
+2025,Mango,July,13.75,Low,Gujarat
+2025,Cotton,September,85.37,High,Rajasthan
+2025,Wheat,July,130.04,High,Karnataka
+2025,Corn,July,106.29,High,Andhra Pradesh
+2025,Groundnut,November,53.62,Medium,Uttar Pradesh
+2025,Potato,May,133.93,High,Uttar Pradesh
+2025,Potato,March,107.63,High,Telangana
+2025,Chilli,May,124.22,High,Tamil Nadu
+2025,Groundnut,April,11.67,Low,Punjab
+2025,Banana,April,137.73,High,Uttar Pradesh
+2025,Groundnut,December,10.06,Low,Maharashtra
+2025,Sugarcane,January,57.01,Medium,Rajasthan
+2025,Corn,August,36.83,Medium,Uttar Pradesh
+2025,Onion,October,55.45,Medium,Maharashtra
+2025,Groundnut,March,28.15,Low,Karnataka
+2025,Chilli,February,24.35,Low,Telangana
+2025,Rice,March,31.7,Medium,Telangana
+2025,Rice,November,24.72,Low,Gujarat
+2025,Banana,May,44.41,Medium,Karnataka
+2025,Mango,July,53.69,Medium,Tamil Nadu
+2025,Corn,October,37.5,Medium,Andhra Pradesh
+2025,Sugarcane,August,27.9,Low,Rajasthan
+2025,Rice,December,29.93,Low,Maharashtra
+2025,Beans,May,28.92,Low,Andhra Pradesh
+2025,Mango,August,28.25,Low,Gujarat
+2025,Tomato,February,44.0,Medium,Telangana
+2025,Carrot,December,67.02,Medium,Kerala
+2025,Corn,November,64.34,Medium,Uttar Pradesh
+2025,Rice,March,25.71,Low,Kerala
+2025,Potato,May,12.75,Low,Telangana
+2025,Potato,November,30.83,Medium,Rajasthan
+2025,Chilli,September,27.29,Low,Gujarat
+2025,Beans,June,147.6,High,Tamil Nadu
+2025,Cotton,December,61.8,Medium,Maharashtra
+2025,Chilli,August,97.24,High,Uttar Pradesh
+2025,Groundnut,November,87.58,High,Telangana
+2025,Sugarcane,July,23.22,Low,Rajasthan
+2025,Potato,July,36.5,Medium,Telangana
+2025,Groundnut,February,36.03,Medium,Kerala
+2025,Onion,March,25.94,Low,Gujarat
+2025,Cabbage,October,28.01,Low,Telangana
+2025,Sugarcane,May,13.33,Low,Tamil Nadu
+2025,Corn,February,23.08,Low,Kerala
+2025,Cotton,March,43.13,Medium,Rajasthan
+2025,Groundnut,August,21.43,Low,Uttar Pradesh
+2025,Beans,December,22.74,Low,Telangana
+2025,Cotton,March,51.29,Medium,Maharashtra
+2025,Sugarcane,May,15.27,Low,Uttar Pradesh
+2025,Potato,April,62.19,Medium,Telangana
+2025,Carrot,July,78.73,High,Kerala
+2025,Cotton,November,64.76,Medium,Uttar Pradesh
+2025,Carrot,December,36.48,Medium,Rajasthan
+2025,Beans,October,70.01,High,Uttar Pradesh
+2025,Beans,August,52.06,Medium,Uttar Pradesh
+2025,Mango,August,12.71,Low,Karnataka
+2025,Tomato,November,45.52,Medium,Tamil Nadu
+2025,Sugarcane,July,109.18,High,Punjab
+2025,Sugarcane,September,53.03,Medium,Punjab
+2025,Cotton,January,59.18,Medium,Gujarat
+2025,Sugarcane,August,105.42,High,Telangana
+2025,Chilli,July,43.47,Medium,Punjab
+2025,Wheat,December,87.43,High,Rajasthan
+2025,Sugarcane,May,64.95,Medium,Telangana
+2025,Chilli,February,63.31,Medium,Punjab
+2025,Cabbage,July,102.13,High,Andhra Pradesh
+2025,Carrot,September,126.44,High,Uttar Pradesh
+2025,Rice,June,51.14,Medium,Maharashtra
+2025,Wheat,June,149.34,High,Punjab
+2025,Groundnut,November,49.85,Medium,Kerala
+2025,Banana,December,72.87,High,Maharashtra
+2025,Cotton,July,114.85,High,Karnataka
+2025,Rice,October,85.63,High,Gujarat
+2025,Onion,April,22.98,Low,Andhra Pradesh
+2025,Potato,August,67.11,Medium,Telangana
+2025,Banana,July,105.3,High,Rajasthan
+2025,Groundnut,February,134.2,High,Punjab
+2025,Potato,December,84.82,High,Punjab
+2025,Groundnut,May,55.91,Medium,Gujarat
+2025,Groundnut,June,22.41,Low,Punjab
+2025,Cotton,September,72.72,High,Punjab
+2025,Groundnut,March,59.23,Medium,Kerala
+2025,Beans,September,46.38,Medium,Punjab
+2025,Wheat,January,66.6,Medium,Uttar Pradesh
+2025,Cabbage,October,69.14,Medium,Rajasthan
+2025,Beans,March,143.01,High,Maharashtra
+2025,Rice,March,11.99,Low,Andhra Pradesh
+2025,Chilli,September,75.64,High,Andhra Pradesh
+2025,Onion,March,24.25,Low,Telangana
+2025,Corn,June,143.38,High,Tamil Nadu
+2025,Potato,May,52.94,Medium,Rajasthan
+2025,Wheat,March,61.16,Medium,Tamil Nadu
+2025,Rice,July,20.0,Low,Uttar Pradesh
+2025,Chilli,March,52.18,Medium,Kerala
+2025,Mango,October,124.98,High,Karnataka
+2025,Groundnut,April,61.64,Medium,Kerala
+2025,Tomato,July,91.7,High,Rajasthan
+2025,Carrot,July,130.61,High,Rajasthan
+2025,Beans,December,13.64,Low,Andhra Pradesh
+2025,Sugarcane,May,23.32,Low,Gujarat
+2025,Sugarcane,December,63.25,Medium,Punjab
+2025,Tomato,May,20.59,Low,Punjab
+2025,Potato,March,126.53,High,Punjab
+2025,Sugarcane,March,126.35,High,Rajasthan
+2025,Banana,June,55.7,Medium,Kerala
+2025,Carrot,September,31.38,Medium,Karnataka
+2025,Cabbage,October,23.1,Low,Maharashtra
+2025,Cotton,February,12.45,Low,Kerala
+2025,Wheat,September,15.43,Low,Rajasthan
+2025,Sugarcane,May,16.73,Low,Andhra Pradesh
+2025,Banana,February,31.2,Medium,Andhra Pradesh
+2025,Wheat,March,16.85,Low,Telangana
+2025,Wheat,February,26.23,Low,Maharashtra
+2025,Groundnut,February,36.37,Medium,Tamil Nadu
+2025,Rice,December,14.63,Low,Karnataka
+2025,Wheat,November,34.07,Medium,Gujarat
+2025,Sugarcane,March,61.47,Medium,Karnataka
+2025,Banana,May,28.25,Low,Tamil Nadu
+2025,Onion,November,148.93,High,Rajasthan
+2025,Onion,April,13.81,Low,Rajasthan
+2025,Tomato,January,115.53,High,Karnataka
+2025,Groundnut,December,91.55,High,Rajasthan
+2025,Potato,April,46.24,Medium,Tamil Nadu
+2025,Potato,September,121.95,High,Gujarat
+2025,Cabbage,September,64.54,Medium,Punjab
+2025,Onion,May,112.77,High,Andhra Pradesh
+2025,Beans,February,41.8,Medium,Telangana
+2025,Cabbage,November,26.69,Low,Andhra Pradesh
+2025,Beans,March,29.05,Low,Karnataka
+2025,Mango,November,41.4,Medium,Maharashtra
+2025,Beans,April,16.76,Low,Andhra Pradesh
+2025,Beans,May,29.94,Low,Maharashtra
+2025,Potato,October,59.7,Medium,Karnataka
+2025,Potato,October,39.71,Medium,Karnataka
+2025,Corn,January,52.14,Medium,Punjab
+2025,Potato,May,33.85,Medium,Karnataka
+2025,Tomato,August,43.81,Medium,Punjab
+2025,Cabbage,March,57.46,Medium,Karnataka
+2025,Banana,December,22.21,Low,Gujarat
+2025,Sugarcane,September,55.07,Medium,Karnataka
+2025,Cabbage,July,13.03,Low,Andhra Pradesh
+2025,Banana,November,101.98,High,Telangana
+2025,Groundnut,October,40.06,Medium,Andhra Pradesh
+2025,Banana,June,10.1,Low,Tamil Nadu
+2025,Cotton,March,109.58,High,Andhra Pradesh
+2025,Carrot,October,102.12,High,Kerala
+2025,Rice,October,51.98,Medium,Uttar Pradesh
+2025,Rice,August,31.74,Medium,Uttar Pradesh
+2025,Beans,July,59.01,Medium,Maharashtra
+2025,Sugarcane,November,97.17,High,Punjab
+2025,Tomato,March,125.61,High,Uttar Pradesh
+2025,Potato,June,25.27,Low,Telangana
+2025,Beans,September,55.59,Medium,Andhra Pradesh
+2025,Potato,January,60.46,Medium,Andhra Pradesh
+2025,Corn,February,110.57,High,Punjab
+2025,Rice,September,148.42,High,Telangana
+2025,Mango,February,69.94,Medium,Gujarat
+2025,Rice,December,15.33,Low,Gujarat
+2025,Onion,August,61.48,Medium,Uttar Pradesh
+2025,Tomato,March,46.98,Medium,Tamil Nadu
+2025,Sugarcane,February,99.15,High,Rajasthan
+2025,Tomato,November,29.99,Low,Karnataka
+2025,Chilli,October,15.45,Low,Tamil Nadu
+2025,Banana,June,11.9,Low,Uttar Pradesh
+2025,Groundnut,August,46.75,Medium,Punjab
+2025,Sugarcane,February,38.41,Medium,Maharashtra
+2025,Groundnut,October,16.61,Low,Gujarat
+2025,Beans,April,141.66,High,Gujarat
+2025,Onion,May,53.58,Medium,Andhra Pradesh
+2025,Wheat,March,59.58,Medium,Punjab
+2025,Onion,June,148.72,High,Karnataka
+2025,Tomato,October,81.84,High,Telangana
+2025,Beans,September,28.19,Low,Karnataka
+2025,Cotton,August,11.13,Low,Karnataka
+2025,Onion,August,17.74,Low,Punjab
+2025,Groundnut,August,68.84,Medium,Rajasthan
+2025,Cotton,June,21.93,Low,Uttar Pradesh
+2025,Beans,January,18.26,Low,Gujarat
+2025,Wheat,March,16.66,Low,Rajasthan
+2025,Carrot,March,32.68,Medium,Punjab
+2025,Sugarcane,October,21.39,Low,Kerala
+2025,Carrot,September,41.99,Medium,Telangana
+2025,Banana,September,14.16,Low,Gujarat
+2025,Carrot,December,91.95,High,Karnataka
+2025,Potato,March,43.19,Medium,Punjab
+2025,Rice,June,22.85,Low,Uttar Pradesh
+2025,Potato,April,72.69,High,Uttar Pradesh
+2025,Onion,June,43.35,Medium,Telangana
+2025,Carrot,March,76.39,High,Andhra Pradesh
+2025,Onion,March,17.96,Low,Tamil Nadu
+2025,Tomato,April,61.84,Medium,Tamil Nadu
+2025,Wheat,June,10.05,Low,Rajasthan
+2025,Corn,September,120.79,High,Rajasthan
+2025,Mango,November,69.34,Medium,Gujarat
+2025,Banana,March,42.41,Medium,Maharashtra
+2025,Mango,December,83.9,High,Punjab
+2025,Beans,February,58.49,Medium,Kerala
+2025,Chilli,June,85.0,High,Uttar Pradesh
+2025,Tomato,July,20.76,Low,Uttar Pradesh
+2025,Beans,October,108.17,High,Uttar Pradesh
+2025,Potato,November,145.81,High,Andhra Pradesh
+2025,Tomato,December,125.41,High,Rajasthan
+2025,Mango,August,40.47,Medium,Rajasthan
+2025,Wheat,October,20.31,Low,Gujarat
+2025,Wheat,September,11.14,Low,Uttar Pradesh
+2025,Corn,December,113.68,High,Punjab
+2025,Mango,February,147.39,High,Telangana
+2025,Rice,March,88.57,High,Telangana
+2025,Carrot,August,55.38,Medium,Maharashtra
+2025,Groundnut,May,57.76,Medium,Karnataka
+2025,Chilli,December,26.21,Low,Uttar Pradesh
+2025,Groundnut,May,29.01,Low,Kerala
+2025,Tomato,November,37.17,Medium,Gujarat
+2025,Banana,October,93.85,High,Kerala
+2025,Banana,November,43.59,Medium,Rajasthan
+2025,Tomato,March,56.72,Medium,Uttar Pradesh
+2025,Carrot,October,29.24,Low,Rajasthan
+2025,Chilli,November,28.52,Low,Andhra Pradesh
+2025,Sugarcane,July,31.0,Medium,Tamil Nadu
+2025,Potato,September,89.95,High,Maharashtra
+2025,Wheat,August,21.91,Low,Kerala
+2025,Sugarcane,December,128.51,High,Punjab
+2025,Wheat,July,15.9,Low,Rajasthan
+2025,Sugarcane,November,22.45,Low,Telangana
+2025,Chilli,April,13.42,Low,Punjab
+2025,Mango,March,142.46,High,Karnataka
+2025,Sugarcane,February,13.39,Low,Maharashtra
+2025,Beans,April,69.03,Medium,Gujarat
+2025,Cotton,March,117.08,High,Uttar Pradesh
+2025,Beans,October,46.62,Medium,Maharashtra
+2025,Sugarcane,August,12.7,Low,Punjab
+2025,Cabbage,September,46.84,Medium,Rajasthan
+2025,Rice,October,60.91,Medium,Uttar Pradesh
+2025,Banana,June,43.91,Medium,Telangana
+2025,Chilli,July,27.49,Low,Andhra Pradesh
+2025,Onion,March,39.28,Medium,Rajasthan
+2025,Corn,July,19.67,Low,Maharashtra
+2025,Sugarcane,April,50.92,Medium,Maharashtra
+2025,Carrot,June,107.3,High,Gujarat
+2025,Sugarcane,November,42.01,Medium,Andhra Pradesh
+2025,Carrot,November,117.8,High,Gujarat
+2025,Groundnut,April,72.52,High,Tamil Nadu
+2025,Cabbage,June,95.23,High,Gujarat
+2025,Wheat,July,144.34,High,Tamil Nadu
+2025,Sugarcane,January,24.24,Low,Punjab
+2025,Tomato,April,86.09,High,Uttar Pradesh
+2025,Potato,November,50.67,Medium,Gujarat
+2025,Onion,August,67.39,Medium,Andhra Pradesh
+2025,Rice,May,54.78,Medium,Punjab
+2025,Corn,September,98.63,High,Uttar Pradesh
+2025,Banana,June,40.44,Medium,Gujarat
+2025,Wheat,September,31.38,Medium,Kerala
+2025,Cabbage,August,24.23,Low,Telangana
+2025,Groundnut,May,139.14,High,Karnataka
+2025,Onion,May,15.52,Low,Kerala
+2025,Chilli,December,82.49,High,Rajasthan
+2025,Sugarcane,September,35.1,Medium,Punjab
+2025,Banana,December,120.64,High,Rajasthan
+2025,Onion,August,127.25,High,Karnataka
+2025,Carrot,May,30.32,Medium,Gujarat
+2025,Carrot,October,67.69,Medium,Punjab
+2025,Groundnut,September,61.86,Medium,Rajasthan
+2025,Banana,June,92.77,High,Karnataka
+2025,Cotton,December,59.43,Medium,Maharashtra
+2025,Rice,November,38.34,Medium,Telangana
+2025,Cotton,September,54.06,Medium,Karnataka
+2025,Rice,September,13.15,Low,Telangana
+2025,Cabbage,March,18.82,Low,Maharashtra
+2025,Wheat,November,114.91,High,Tamil Nadu
+2025,Tomato,August,48.9,Medium,Rajasthan
+2025,Rice,May,32.64,Medium,Telangana
+2025,Mango,March,43.01,Medium,Gujarat
+2025,Chilli,March,108.72,High,Uttar Pradesh
+2025,Wheat,September,37.5,Medium,Kerala
+2025,Banana,February,59.46,Medium,Maharashtra
+2025,Sugarcane,January,131.28,High,Maharashtra
+2025,Cabbage,May,107.12,High,Kerala
+2025,Cabbage,July,11.45,Low,Rajasthan
+2025,Mango,January,68.73,Medium,Gujarat
+2025,Mango,April,55.14,Medium,Karnataka
+2025,Potato,October,125.73,High,Karnataka
+2025,Sugarcane,June,82.54,High,Gujarat
+2025,Mango,December,18.37,Low,Telangana
+2025,Potato,June,104.97,High,Andhra Pradesh
+2025,Tomato,April,71.75,High,Tamil Nadu
+2025,Wheat,October,145.3,High,Kerala
+2025,Beans,October,112.05,High,Kerala
+2025,Cotton,April,96.21,High,Telangana
+2025,Cabbage,August,44.3,Medium,Kerala
+2025,Corn,January,15.25,Low,Uttar Pradesh
+2025,Mango,December,57.18,Medium,Kerala
+2025,Beans,June,74.83,High,Uttar Pradesh
+2025,Beans,June,68.3,Medium,Tamil Nadu
+2025,Banana,February,61.97,Medium,Punjab
+2025,Beans,December,69.98,Medium,Punjab
+2025,Potato,May,141.95,High,Rajasthan
+2025,Potato,September,141.24,High,Gujarat
+2025,Banana,October,47.45,Medium,Punjab
+2025,Onion,February,19.57,Low,Karnataka
+2025,Rice,August,57.6,Medium,Andhra Pradesh
+2025,Mango,January,44.03,Medium,Andhra Pradesh
+2025,Cabbage,January,44.35,Medium,Punjab
+2025,Corn,April,10.77,Low,Andhra Pradesh
+2025,Carrot,October,66.01,Medium,Andhra Pradesh
+2025,Corn,October,24.7,Low,Maharashtra
+2025,Potato,April,44.16,Medium,Uttar Pradesh
+2025,Beans,August,26.29,Low,Andhra Pradesh
+2025,Carrot,March,59.59,Medium,Maharashtra
+2025,Wheat,December,56.81,Medium,Karnataka
+2025,Carrot,July,61.74,Medium,Tamil Nadu
+2025,Mango,November,40.36,Medium,Telangana
+2025,Beans,July,23.92,Low,Punjab
+2025,Banana,December,38.04,Medium,Rajasthan
+2025,Groundnut,December,52.36,Medium,Uttar Pradesh
+2025,Cabbage,November,83.77,High,Punjab
+2025,Onion,January,33.7,Medium,Maharashtra
+2025,Groundnut,November,78.65,High,Andhra Pradesh
+2025,Potato,December,17.54,Low,Kerala
+2025,Sugarcane,December,30.86,Medium,Telangana
+2025,Sugarcane,February,53.79,Medium,Gujarat
+2025,Wheat,July,106.92,High,Andhra Pradesh
+2025,Potato,July,15.11,Low,Maharashtra
+2025,Mango,March,27.77,Low,Rajasthan
+2025,Chilli,June,120.51,High,Gujarat
+2025,Tomato,August,82.04,High,Kerala
+2025,Sugarcane,March,59.87,Medium,Gujarat
+2025,Rice,May,25.55,Low,Andhra Pradesh
+2025,Groundnut,July,69.26,Medium,Karnataka
+2025,Mango,February,36.93,Medium,Rajasthan
+2025,Onion,April,57.13,Medium,Telangana
+2025,Potato,November,41.54,Medium,Andhra Pradesh
+2025,Banana,November,66.3,Medium,Telangana
+2025,Wheat,April,78.42,High,Karnataka
+2025,Groundnut,April,18.59,Low,Punjab
+2025,Wheat,May,105.32,High,Andhra Pradesh
+2025,Sugarcane,February,44.66,Medium,Telangana
+2025,Tomato,February,21.65,Low,Gujarat
+2025,Cotton,March,21.86,Low,Punjab
+2025,Groundnut,February,52.35,Medium,Kerala
+2025,Wheat,June,72.28,High,Kerala
+2025,Mango,September,79.21,High,Karnataka
+2025,Rice,November,21.69,Low,Kerala
+2025,Mango,October,57.75,Medium,Telangana
+2025,Banana,May,18.34,Low,Maharashtra
+2025,Cabbage,September,129.3,High,Karnataka
+2025,Chilli,November,13.28,Low,Uttar Pradesh
+2025,Rice,December,116.87,High,Rajasthan
+2025,Rice,March,17.98,Low,Andhra Pradesh
+2025,Corn,May,138.69,High,Gujarat
+2025,Chilli,June,58.47,Medium,Telangana
+2025,Beans,November,114.65,High,Tamil Nadu
+2025,Mango,August,83.81,High,Punjab
+2025,Tomato,February,111.67,High,Andhra Pradesh
+2025,Rice,November,56.78,Medium,Tamil Nadu
+2025,Sugarcane,September,61.97,Medium,Punjab
+2025,Mango,February,37.18,Medium,Telangana
+2025,Groundnut,November,49.54,Medium,Gujarat
+2025,Chilli,March,148.41,High,Kerala
+2025,Tomato,June,121.92,High,Tamil Nadu
+2025,Cotton,March,55.78,Medium,Tamil Nadu
+2025,Potato,December,19.84,Low,Rajasthan
+2025,Cabbage,April,12.52,Low,Rajasthan
+2025,Rice,July,16.61,Low,Gujarat
+2025,Sugarcane,May,36.97,Medium,Kerala
+2025,Chilli,December,52.27,Medium,Andhra Pradesh
+2025,Chilli,January,16.94,Low,Andhra Pradesh
+2025,Cotton,March,12.1,Low,Karnataka
+2025,Onion,September,33.48,Medium,Tamil Nadu
+2025,Groundnut,January,24.57,Low,Karnataka
+2025,Onion,February,96.55,High,Maharashtra
+2025,Mango,October,21.43,Low,Punjab
+2025,Groundnut,January,17.61,Low,Rajasthan
+2025,Carrot,March,31.06,Medium,Gujarat
+2025,Cabbage,October,19.98,Low,Kerala
+2025,Chilli,February,40.66,Medium,Uttar Pradesh
+2025,Rice,September,55.89,Medium,Andhra Pradesh
+2025,Sugarcane,October,58.75,Medium,Rajasthan
+2025,Banana,August,54.1,Medium,Rajasthan
+2025,Mango,March,19.57,Low,Uttar Pradesh
+2025,Potato,October,29.01,Low,Punjab
+2025,Onion,June,13.52,Low,Andhra Pradesh
+2025,Potato,November,36.38,Medium,Rajasthan
+2025,Groundnut,August,25.0,Low,Kerala
+2025,Wheat,December,13.76,Low,Kerala
+2025,Potato,February,26.62,Low,Rajasthan
+2025,Onion,August,19.97,Low,Telangana
+2025,Rice,May,78.49,High,Andhra Pradesh
+2025,Banana,October,77.49,High,Telangana
+2025,Chilli,February,19.0,Low,Uttar Pradesh
+2025,Chilli,December,54.88,Medium,Rajasthan
+2025,Carrot,August,64.62,Medium,Maharashtra
+2025,Carrot,January,130.58,High,Maharashtra
+2025,Beans,June,35.68,Medium,Punjab
+2025,Tomato,January,20.11,Low,Punjab
+2025,Beans,December,12.05,Low,Tamil Nadu
+2025,Tomato,October,97.63,High,Telangana
+2025,Groundnut,February,115.01,High,Gujarat
+2025,Beans,September,24.75,Low,Uttar Pradesh
+2025,Beans,February,109.23,High,Telangana
+2025,Onion,December,86.63,High,Andhra Pradesh
+2025,Potato,November,15.66,Low,Telangana
+2025,Potato,March,84.32,High,Karnataka
+2025,Banana,December,56.44,Medium,Telangana
+2025,Potato,November,52.15,Medium,Karnataka
+2025,Carrot,December,15.57,Low,Andhra Pradesh
+2025,Onion,November,56.87,Medium,Uttar Pradesh
+2025,Sugarcane,December,132.96,High,Maharashtra
+2025,Carrot,June,66.11,Medium,Gujarat
+2025,Chilli,December,16.63,Low,Kerala
+2025,Wheat,February,25.53,Low,Rajasthan
+2025,Carrot,April,19.79,Low,Telangana
+2025,Cabbage,November,23.7,Low,Rajasthan
+2025,Rice,May,104.36,High,Kerala
+2025,Banana,June,10.67,Low,Punjab
+2025,Sugarcane,April,100.24,High,Uttar Pradesh
+2025,Wheat,September,26.57,Low,Gujarat
+2025,Wheat,July,49.59,Medium,Maharashtra
+2025,Beans,March,108.16,High,Punjab
+2025,Groundnut,November,16.9,Low,Tamil Nadu
+2025,Groundnut,April,28.69,Low,Uttar Pradesh
+2025,Potato,February,45.6,Medium,Gujarat
+2025,Cotton,March,54.69,Medium,Uttar Pradesh
+2025,Rice,March,68.08,Medium,Maharashtra
+2025,Sugarcane,November,97.43,High,Uttar Pradesh
+2025,Mango,July,15.7,Low,Uttar Pradesh
+2025,Onion,March,126.9,High,Gujarat
+2025,Sugarcane,August,26.85,Low,Telangana
+2025,Chilli,March,13.17,Low,Kerala
+2025,Potato,May,13.33,Low,Rajasthan
+2025,Potato,June,66.17,Medium,Kerala
+2025,Tomato,May,111.33,High,Gujarat
+2025,Cabbage,January,28.13,Low,Rajasthan
+2025,Cotton,October,128.07,High,Rajasthan
+2025,Tomato,March,18.93,Low,Tamil Nadu
+2025,Carrot,November,29.27,Low,Karnataka
+2025,Banana,August,78.07,High,Gujarat
+2025,Cabbage,July,103.36,High,Uttar Pradesh
+2025,Rice,April,59.76,Medium,Karnataka
+2025,Potato,September,10.15,Low,Karnataka
+2025,Banana,June,24.96,Low,Maharashtra
+2025,Carrot,December,59.7,Medium,Maharashtra
+2025,Corn,July,60.12,Medium,Rajasthan
+2025,Sugarcane,May,63.33,Medium,Maharashtra
+2025,Mango,September,120.85,High,Punjab
+2025,Beans,April,108.46,High,Tamil Nadu
+2025,Chilli,May,19.06,Low,Uttar Pradesh
+2025,Chilli,January,72.38,High,Tamil Nadu
+2025,Sugarcane,August,22.99,Low,Uttar Pradesh
+2025,Potato,November,16.42,Low,Gujarat
+2025,Cabbage,August,135.54,High,Rajasthan
+2025,Banana,February,57.33,Medium,Rajasthan
+2025,Carrot,August,28.36,Low,Tamil Nadu
+2025,Onion,July,65.81,Medium,Karnataka
+2025,Carrot,June,29.93,Low,Rajasthan
+2025,Beans,July,19.9,Low,Uttar Pradesh
+2025,Onion,January,105.68,High,Andhra Pradesh
+2025,Chilli,June,22.62,Low,Tamil Nadu
+2025,Banana,January,139.8,High,Gujarat
+2025,Cotton,January,148.03,High,Andhra Pradesh
+2025,Cabbage,May,31.82,Medium,Maharashtra
+2025,Tomato,September,112.48,High,Gujarat
+2025,Cabbage,November,80.63,High,Kerala
+2025,Wheat,June,68.08,Medium,Karnataka
+2025,Corn,July,65.54,Medium,Gujarat
+2025,Potato,May,67.3,Medium,Kerala
+2025,Chilli,December,28.73,Low,Maharashtra
+2025,Beans,March,65.18,Medium,Kerala
+2025,Wheat,November,65.82,Medium,Uttar Pradesh
+2025,Mango,June,101.02,High,Kerala
+2025,Wheat,August,10.66,Low,Karnataka
+2025,Corn,July,18.68,Low,Karnataka
+2025,Groundnut,June,107.01,High,Maharashtra
+2025,Potato,September,43.74,Medium,Andhra Pradesh
+2025,Carrot,July,123.67,High,Tamil Nadu
+2025,Banana,October,126.88,High,Kerala
+2025,Corn,November,94.45,High,Gujarat
+2025,Beans,April,133.82,High,Maharashtra
+2025,Potato,March,25.06,Low,Gujarat
+2025,Beans,November,100.32,High,Maharashtra
+2025,Cabbage,November,54.08,Medium,Telangana
+2025,Mango,April,19.51,Low,Uttar Pradesh
+2025,Carrot,December,18.77,Low,Karnataka
+2025,Mango,March,10.75,Low,Tamil Nadu
+2025,Rice,February,68.24,Medium,Maharashtra
+2025,Onion,October,98.94,High,Maharashtra
+2025,Rice,March,35.88,Medium,Gujarat
+2025,Chilli,April,114.42,High,Andhra Pradesh
+2025,Cabbage,September,104.98,High,Uttar Pradesh
+2025,Carrot,August,36.63,Medium,Tamil Nadu
+2025,Chilli,November,142.17,High,Telangana
+2025,Sugarcane,August,79.11,High,Punjab
+2025,Potato,November,43.51,Medium,Maharashtra
+2025,Onion,May,22.6,Low,Rajasthan
+2025,Onion,December,38.12,Medium,Kerala
+2025,Corn,February,37.61,Medium,Telangana
+2025,Groundnut,December,48.22,Medium,Rajasthan
+2025,Banana,June,23.73,Low,Gujarat
+2025,Potato,November,38.82,Medium,Telangana
+2025,Rice,November,43.28,Medium,Karnataka
+2025,Beans,October,16.16,Low,Gujarat
+2025,Wheat,June,14.06,Low,Karnataka
+2025,Banana,May,35.68,Medium,Tamil Nadu
+2025,Groundnut,August,48.69,Medium,Uttar Pradesh
+2025,Wheat,June,23.8,Low,Rajasthan
+2025,Mango,May,42.64,Medium,Andhra Pradesh
+2025,Cotton,May,89.52,High,Uttar Pradesh
+2025,Banana,August,52.16,Medium,Telangana
+2025,Tomato,April,42.51,Medium,Tamil Nadu
+2025,Wheat,September,83.99,High,Karnataka
+2025,Beans,July,56.23,Medium,Gujarat
+2025,Mango,July,53.89,Medium,Tamil Nadu
+2025,Rice,October,12.19,Low,Telangana
+2025,Banana,June,71.56,High,Uttar Pradesh
+2025,Potato,October,112.71,High,Rajasthan
+2025,Sugarcane,December,100.67,High,Rajasthan
+2025,Onion,December,56.64,Medium,Andhra Pradesh
+2025,Cabbage,May,42.48,Medium,Karnataka
+2025,Cotton,January,47.02,Medium,Maharashtra
+2025,Corn,January,41.18,Medium,Telangana
+2025,Carrot,April,26.4,Low,Maharashtra
+2025,Wheat,February,29.52,Low,Karnataka
+2025,Potato,December,36.85,Medium,Rajasthan
+2025,Sugarcane,June,132.04,High,Punjab
+2025,Cabbage,February,11.19,Low,Karnataka
+2025,Wheat,July,28.09,Low,Kerala
+2025,Rice,February,90.63,High,Telangana
+2025,Sugarcane,June,39.71,Medium,Maharashtra
+2025,Onion,May,112.31,High,Rajasthan
+2025,Chilli,January,96.8,High,Kerala
+2025,Sugarcane,December,61.93,Medium,Rajasthan
+2025,Banana,August,106.64,High,Kerala
+2025,Corn,March,21.48,Low,Maharashtra
+2025,Sugarcane,March,17.6,Low,Kerala
+2025,Potato,August,37.94,Medium,Tamil Nadu
+2025,Wheat,November,25.6,Low,Telangana
+2025,Chilli,June,87.96,High,Andhra Pradesh
+2025,Groundnut,July,122.49,High,Telangana
+2025,Sugarcane,June,14.19,Low,Telangana
+2025,Beans,March,68.78,Medium,Uttar Pradesh
+2025,Groundnut,August,13.8,Low,Rajasthan
+2025,Cabbage,July,73.35,High,Punjab
+2025,Carrot,March,15.0,Low,Maharashtra
+2025,Banana,January,10.87,Low,Maharashtra
+2025,Cabbage,January,50.6,Medium,Maharashtra
+2025,Carrot,November,62.87,Medium,Uttar Pradesh
+2025,Tomato,June,112.6,High,Gujarat
+2025,Cotton,March,15.28,Low,Tamil Nadu
+2025,Banana,February,17.71,Low,Karnataka
+2025,Cabbage,September,27.54,Low,Tamil Nadu
+2025,Beans,October,20.61,Low,Gujarat
+2025,Sugarcane,February,63.48,Medium,Tamil Nadu
+2025,Sugarcane,March,49.96,Medium,Andhra Pradesh
+2025,Wheat,January,131.21,High,Karnataka
+2025,Corn,August,33.55,Medium,Punjab
+2025,Tomato,July,32.54,Medium,Gujarat
+2025,Groundnut,July,25.34,Low,Andhra Pradesh
+2025,Corn,June,38.16,Medium,Karnataka
+2025,Tomato,November,111.29,High,Tamil Nadu
+2025,Rice,July,52.43,Medium,Punjab
+2025,Carrot,May,137.98,High,Maharashtra
+2025,Onion,September,56.01,Medium,Karnataka
+2025,Potato,January,28.9,Low,Telangana
+2025,Beans,August,25.57,Low,Rajasthan
+2025,Corn,April,62.08,Medium,Tamil Nadu
+2025,Cabbage,February,141.77,High,Tamil Nadu
+2025,Carrot,February,43.56,Medium,Telangana
+2025,Mango,January,24.2,Low,Punjab
+2025,Cotton,January,86.28,High,Gujarat
+2025,Cotton,February,22.87,Low,Uttar Pradesh
+2025,Groundnut,April,52.73,Medium,Telangana
+2025,Potato,October,62.7,Medium,Andhra Pradesh
+2025,Onion,March,108.91,High,Karnataka
+2025,Onion,March,17.78,Low,Kerala
+2025,Potato,May,104.01,High,Andhra Pradesh
+2025,Wheat,October,96.47,High,Telangana
+2025,Onion,September,26.24,Low,Telangana
+2025,Groundnut,September,64.52,Medium,Gujarat
+2025,Tomato,May,94.05,High,Punjab
+2025,Mango,December,80.96,High,Rajasthan
+2025,Beans,December,40.29,Medium,Andhra Pradesh
+2025,Carrot,June,45.82,Medium,Karnataka
+2025,Onion,September,41.27,Medium,Maharashtra
+2025,Tomato,September,121.32,High,Kerala
+2025,Cotton,February,137.28,High,Andhra Pradesh
+2025,Groundnut,May,32.24,Medium,Uttar Pradesh
+2025,Rice,April,41.48,Medium,Rajasthan
+2025,Onion,April,24.2,Low,Maharashtra
+2025,Cotton,September,77.06,High,Maharashtra
+2025,Carrot,January,129.72,High,Punjab
+2025,Chilli,October,85.26,High,Andhra Pradesh
+2025,Rice,May,65.47,Medium,Karnataka
+2025,Corn,February,134.78,High,Andhra Pradesh
+2025,Cabbage,October,66.05,Medium,Gujarat
+2025,Cabbage,August,19.32,Low,Kerala
+2025,Potato,April,109.26,High,Gujarat
+2025,Tomato,December,50.16,Medium,Rajasthan
+2025,Tomato,September,104.68,High,Tamil Nadu
+2025,Sugarcane,May,14.14,Low,Karnataka
+2025,Rice,November,23.14,Low,Kerala
+2025,Beans,August,130.57,High,Rajasthan
+2025,Potato,November,14.17,Low,Uttar Pradesh
+2025,Sugarcane,August,42.38,Medium,Uttar Pradesh
+2025,Rice,October,88.66,High,Rajasthan
+2025,Carrot,October,78.84,High,Kerala
+2025,Rice,June,104.97,High,Telangana
+2025,Mango,February,129.48,High,Gujarat
+2025,Carrot,March,30.3,Medium,Rajasthan
+2025,Wheat,March,133.26,High,Rajasthan
+2025,Chilli,February,13.96,Low,Karnataka
+2025,Cabbage,October,81.44,High,Kerala
+2025,Cotton,June,61.46,Medium,Gujarat
+2025,Banana,August,19.5,Low,Andhra Pradesh
+2025,Wheat,November,16.31,Low,Kerala
+2025,Banana,January,61.8,Medium,Maharashtra
+2025,Sugarcane,August,82.77,High,Telangana
+2025,Cabbage,April,34.25,Medium,Rajasthan
+2025,Beans,April,18.36,Low,Punjab
+2025,Corn,April,42.89,Medium,Punjab
+2025,Tomato,December,95.39,High,Telangana
+2025,Onion,October,41.72,Medium,Kerala
+2025,Mango,November,22.66,Low,Maharashtra
+2025,Corn,December,20.37,Low,Punjab
+2025,Cabbage,July,12.77,Low,Uttar Pradesh
+2025,Beans,February,108.33,High,Maharashtra
+2025,Sugarcane,November,124.12,High,Rajasthan
+2025,Beans,December,109.83,High,Karnataka
+2025,Cotton,November,39.7,Medium,Karnataka
+2025,Chilli,May,128.07,High,Maharashtra
+2025,Groundnut,June,54.45,Medium,Rajasthan
+2025,Mango,June,98.63,High,Karnataka
+2025,Beans,January,87.36,High,Uttar Pradesh
+2025,Cabbage,February,49.55,Medium,Kerala
+2025,Mango,August,144.86,High,Rajasthan
+2025,Groundnut,March,26.59,Low,Uttar Pradesh
+2025,Mango,October,31.11,Medium,Maharashtra
+2025,Wheat,May,26.54,Low,Punjab
+2025,Carrot,November,140.69,High,Telangana
+2025,Cabbage,November,113.38,High,Gujarat
+2025,Cotton,September,73.22,High,Gujarat
+2025,Carrot,July,147.72,High,Maharashtra
+2025,Carrot,September,119.89,High,Tamil Nadu
+2025,Banana,February,37.43,Medium,Rajasthan
+2025,Sugarcane,May,43.76,Medium,Karnataka
+2025,Mango,May,13.41,Low,Kerala
+2025,Onion,December,128.47,High,Gujarat
+2025,Cotton,January,81.85,High,Andhra Pradesh
+2025,Tomato,October,66.48,Medium,Maharashtra
+2025,Tomato,September,47.03,Medium,Punjab
+2025,Mango,June,27.34,Low,Telangana
+2025,Cotton,January,64.46,Medium,Tamil Nadu
+2025,Tomato,January,116.27,High,Tamil Nadu
+2025,Beans,July,61.59,Medium,Maharashtra
+2025,Wheat,December,94.68,High,Telangana
+2025,Rice,August,115.16,High,Rajasthan
+2025,Potato,March,90.74,High,Rajasthan
+2025,Cotton,January,68.24,Medium,Karnataka
+2025,Wheat,May,56.85,Medium,Uttar Pradesh
+2025,Beans,May,10.14,Low,Gujarat
+2025,Carrot,December,34.17,Medium,Gujarat
+2025,Onion,August,124.06,High,Tamil Nadu
+2025,Wheat,September,16.57,Low,Punjab
+2025,Beans,November,103.72,High,Karnataka
+2025,Beans,August,62.54,Medium,Tamil Nadu
+2025,Beans,July,50.55,Medium,Telangana
+2025,Corn,July,63.1,Medium,Telangana
+2025,Banana,June,21.03,Low,Maharashtra
+2025,Tomato,June,17.23,Low,Telangana
+2025,Wheat,April,65.81,Medium,Andhra Pradesh
+2025,Beans,January,55.03,Medium,Maharashtra
+2025,Sugarcane,March,144.89,High,Gujarat
+2025,Corn,September,17.78,Low,Kerala
+2025,Onion,August,24.44,Low,Punjab
+2025,Sugarcane,September,75.12,High,Uttar Pradesh
+2025,Mango,April,28.19,Low,Telangana
+2025,Corn,March,16.81,Low,Punjab
+2025,Cabbage,July,16.47,Low,Gujarat
+2025,Sugarcane,September,10.79,Low,Andhra Pradesh
+2025,Wheat,October,134.48,High,Uttar Pradesh
+2025,Carrot,July,23.97,Low,Tamil Nadu
+2025,Corn,July,12.65,Low,Telangana
+2025,Wheat,June,49.27,Medium,Punjab
+2025,Cabbage,April,31.73,Medium,Kerala
+2025,Cotton,September,76.12,High,Gujarat
+2025,Carrot,February,43.86,Medium,Rajasthan
+2025,Corn,February,64.59,Medium,Rajasthan
+2025,Wheat,January,72.91,High,Punjab
+2025,Corn,November,139.09,High,Karnataka
+2025,Mango,February,21.32,Low,Uttar Pradesh
+2025,Chilli,November,89.31,High,Uttar Pradesh
+2025,Onion,August,43.68,Medium,Telangana
+2025,Beans,August,36.2,Medium,Rajasthan
+2025,Beans,December,39.02,Medium,Telangana
+2025,Banana,June,106.12,High,Karnataka
+2025,Chilli,December,137.91,High,Telangana
+2025,Chilli,February,112.97,High,Uttar Pradesh
+2025,Cotton,January,106.58,High,Andhra Pradesh
+2025,Sugarcane,November,87.78,High,Punjab
+2025,Sugarcane,December,138.44,High,Telangana
+2025,Wheat,October,51.74,Medium,Maharashtra
+2025,Cotton,April,12.27,Low,Rajasthan
+2025,Potato,May,29.75,Low,Punjab
+2025,Carrot,October,16.46,Low,Rajasthan
+2025,Sugarcane,November,59.75,Medium,Tamil Nadu
+2025,Sugarcane,May,68.73,Medium,Uttar Pradesh
+2025,Tomato,March,84.54,High,Maharashtra
+2025,Carrot,October,82.4,High,Karnataka
+2025,Tomato,April,18.24,Low,Gujarat
+2025,Cabbage,April,141.69,High,Telangana
+2025,Wheat,September,63.24,Medium,Maharashtra
+2025,Tomato,May,15.92,Low,Karnataka
+2025,Wheat,November,52.43,Medium,Andhra Pradesh
+2025,Potato,June,89.2,High,Gujarat
+2025,Wheat,August,55.87,Medium,Tamil Nadu
+2025,Sugarcane,January,18.49,Low,Maharashtra
+2025,Corn,August,14.97,Low,Rajasthan
+2025,Sugarcane,June,74.88,High,Karnataka
+2025,Tomato,July,49.69,Medium,Maharashtra
+2025,Cotton,June,26.6,Low,Tamil Nadu
+2025,Beans,October,13.72,Low,Telangana
+2025,Carrot,May,44.11,Medium,Kerala
+2025,Tomato,August,31.22,Medium,Karnataka
+2025,Corn,August,109.52,High,Karnataka
+2025,Sugarcane,December,48.89,Medium,Maharashtra
+2025,Beans,July,24.69,Low,Telangana
+2025,Corn,September,59.06,Medium,Punjab
+2025,Onion,November,140.9,High,Rajasthan
+2025,Potato,April,10.28,Low,Rajasthan
+2025,Mango,May,16.95,Low,Punjab
+2025,Wheat,July,15.1,Low,Gujarat
+2025,Rice,May,17.46,Low,Rajasthan
+2025,Onion,February,67.83,Medium,Andhra Pradesh
+2025,Potato,June,84.64,High,Karnataka
+2025,Onion,November,126.62,High,Karnataka
+2025,Beans,December,77.0,High,Kerala
+2025,Cabbage,June,112.88,High,Karnataka
+2025,Corn,June,29.14,Low,Punjab
+2025,Onion,October,15.2,Low,Rajasthan
+2025,Potato,May,38.39,Medium,Maharashtra
+2025,Cotton,May,29.85,Low,Telangana
+2025,Potato,April,57.1,Medium,Maharashtra
+2025,Tomato,January,84.92,High,Uttar Pradesh
+2025,Sugarcane,October,145.17,High,Telangana
+2025,Chilli,September,32.06,Medium,Punjab
+2025,Tomato,September,21.6,Low,Uttar Pradesh
+2025,Tomato,September,12.88,Low,Tamil Nadu
+2025,Beans,February,22.06,Low,Rajasthan
+2025,Potato,July,26.58,Low,Rajasthan
+2025,Wheat,May,20.88,Low,Tamil Nadu
+2025,Onion,December,93.9,High,Uttar Pradesh
+2025,Wheat,March,102.32,High,Andhra Pradesh
+2025,Sugarcane,January,112.17,High,Karnataka
+2025,Onion,November,21.2,Low,Maharashtra
+2025,Wheat,April,12.26,Low,Kerala
+2025,Groundnut,September,144.51,High,Uttar Pradesh
+2025,Onion,February,38.03,Medium,Rajasthan
+2025,Corn,October,41.9,Medium,Gujarat
+2025,Corn,May,24.21,Low,Rajasthan
+2025,Potato,March,130.57,High,Karnataka
+2025,Cabbage,February,122.06,High,Gujarat
+2025,Chilli,May,33.11,Medium,Tamil Nadu
+2025,Cabbage,August,63.81,Medium,Karnataka
+2025,Beans,May,87.83,High,Uttar Pradesh
+2025,Onion,April,133.3,High,Kerala
+2025,Cotton,April,94.04,High,Telangana
+2025,Sugarcane,December,38.85,Medium,Uttar Pradesh
+2025,Onion,February,43.91,Medium,Telangana
+2025,Potato,April,142.47,High,Telangana
+2025,Potato,August,49.82,Medium,Tamil Nadu
+2025,Onion,January,97.93,High,Karnataka
+2025,Mango,April,116.74,High,Gujarat
+2025,Potato,August,58.0,Medium,Maharashtra
+2025,Beans,March,24.6,Low,Telangana
+2025,Chilli,January,47.11,Medium,Punjab
+2025,Cabbage,December,87.13,High,Karnataka
+2025,Sugarcane,October,13.29,Low,Kerala
+2025,Tomato,June,20.05,Low,Tamil Nadu
+2025,Banana,September,11.36,Low,Gujarat
+2025,Beans,June,24.23,Low,Gujarat
+2025,Beans,June,105.94,High,Kerala
+2025,Wheat,May,141.11,High,Punjab
+2025,Tomato,November,29.14,Low,Maharashtra
+2025,Sugarcane,May,31.23,Medium,Kerala
+2025,Onion,September,26.01,Low,Tamil Nadu
+2025,Tomato,June,135.31,High,Punjab
+2025,Chilli,January,41.83,Medium,Andhra Pradesh
+2025,Chilli,April,32.23,Medium,Gujarat
+2025,Chilli,November,111.26,High,Karnataka
+2025,Banana,July,38.83,Medium,Maharashtra
+2025,Groundnut,August,25.1,Low,Uttar Pradesh
+2025,Cabbage,September,26.66,Low,Telangana
+2025,Beans,May,124.0,High,Telangana
+2025,Potato,November,117.36,High,Punjab
+2025,Rice,May,15.36,Low,Andhra Pradesh
+2025,Rice,December,15.88,Low,Rajasthan
+2025,Banana,June,31.83,Medium,Uttar Pradesh
+2025,Cotton,August,107.92,High,Gujarat
+2025,Banana,August,20.67,Low,Karnataka
+2025,Sugarcane,February,26.57,Low,Uttar Pradesh
+2025,Cabbage,May,53.52,Medium,Uttar Pradesh
+2025,Chilli,September,28.21,Low,Kerala
+2025,Rice,August,12.86,Low,Uttar Pradesh
+2025,Onion,June,25.83,Low,Telangana
+2025,Cotton,May,113.86,High,Punjab
+2025,Potato,February,16.76,Low,Maharashtra
+2025,Onion,May,71.51,High,Kerala
+2025,Chilli,October,15.31,Low,Maharashtra
+2025,Corn,December,12.07,Low,Uttar Pradesh
+2025,Banana,June,79.49,High,Andhra Pradesh
+2025,Onion,July,25.22,Low,Tamil Nadu
+2025,Tomato,September,107.26,High,Gujarat
+2025,Chilli,May,60.05,Medium,Kerala
+2025,Banana,December,54.52,Medium,Andhra Pradesh
+2025,Onion,October,81.6,High,Rajasthan
+2025,Beans,March,129.69,High,Karnataka
+2025,Cabbage,August,27.01,Low,Karnataka
+2025,Groundnut,December,38.21,Medium,Karnataka
+2025,Onion,June,107.05,High,Tamil Nadu
+2025,Onion,February,63.66,Medium,Punjab
+2025,Chilli,December,132.59,High,Andhra Pradesh
+2025,Tomato,June,30.45,Medium,Rajasthan
+2025,Wheat,March,89.58,High,Punjab
+2025,Potato,July,52.32,Medium,Gujarat
+2025,Carrot,September,30.58,Medium,Tamil Nadu
+2025,Rice,October,12.41,Low,Uttar Pradesh
+2025,Rice,November,93.31,High,Maharashtra
+2025,Groundnut,September,48.86,Medium,Uttar Pradesh
+2025,Potato,April,59.75,Medium,Telangana
+2025,Mango,April,61.96,Medium,Punjab
+2025,Sugarcane,July,63.47,Medium,Telangana
+2025,Carrot,February,33.69,Medium,Kerala
+2025,Beans,December,21.66,Low,Andhra Pradesh
+2025,Cotton,January,76.51,High,Tamil Nadu
+2025,Carrot,October,116.07,High,Punjab
+2025,Cotton,March,29.46,Low,Kerala
+2025,Corn,April,18.06,Low,Telangana
+2025,Corn,November,85.53,High,Gujarat
+2025,Sugarcane,February,71.76,High,Uttar Pradesh
+2025,Mango,May,142.6,High,Andhra Pradesh
+2025,Chilli,June,98.4,High,Uttar Pradesh
+2025,Beans,May,12.31,Low,Gujarat
+2025,Chilli,March,16.69,Low,Karnataka
+2025,Onion,November,146.19,High,Tamil Nadu
+2025,Carrot,December,34.01,Medium,Uttar Pradesh
+2025,Corn,May,133.1,High,Gujarat
+2025,Cotton,February,57.99,Medium,Rajasthan
+2025,Cabbage,January,56.11,Medium,Gujarat
+2025,Beans,December,50.41,Medium,Uttar Pradesh
+2025,Mango,April,39.22,Medium,Karnataka
+2025,Banana,February,68.58,Medium,Maharashtra
+2025,Potato,October,118.3,High,Karnataka
+2025,Groundnut,July,29.99,Low,Kerala
+2025,Tomato,August,84.93,High,Andhra Pradesh
+2025,Banana,December,21.4,Low,Uttar Pradesh
+2025,Tomato,March,75.45,High,Tamil Nadu
+2025,Chilli,March,72.33,High,Kerala
+2025,Onion,November,49.48,Medium,Telangana
+2025,Tomato,April,26.86,Low,Rajasthan
+2025,Potato,January,20.84,Low,Punjab
+2025,Wheat,May,69.21,Medium,Karnataka
+2025,Sugarcane,August,96.43,High,Punjab
+2025,Carrot,October,59.8,Medium,Kerala
+2025,Beans,October,142.87,High,Andhra Pradesh
+2025,Sugarcane,May,13.06,Low,Kerala
+2025,Rice,July,126.75,High,Gujarat
+2025,Banana,May,35.9,Medium,Rajasthan
+2025,Rice,June,14.05,Low,Karnataka
+2025,Mango,April,16.94,Low,Maharashtra
+2025,Carrot,March,41.49,Medium,Rajasthan
+2025,Cotton,August,131.67,High,Maharashtra
+2025,Sugarcane,July,18.57,Low,Tamil Nadu
+2025,Corn,April,61.39,Medium,Andhra Pradesh
+2025,Onion,October,25.77,Low,Uttar Pradesh
+2025,Banana,April,95.4,High,Tamil Nadu
+2025,Wheat,July,90.6,High,Uttar Pradesh
+2025,Cotton,March,13.02,Low,Tamil Nadu
+2025,Carrot,January,120.47,High,Maharashtra
+2025,Onion,April,99.08,High,Kerala
+2025,Tomato,March,14.93,Low,Punjab
+2025,Potato,January,117.3,High,Kerala
+2025,Tomato,July,39.0,Medium,Tamil Nadu
+2025,Carrot,February,60.55,Medium,Punjab
+2025,Potato,March,120.37,High,Kerala
+2025,Cotton,June,15.93,Low,Andhra Pradesh
+2025,Groundnut,September,20.11,Low,Telangana
+2025,Corn,February,67.89,Medium,Karnataka
+2025,Wheat,May,58.38,Medium,Karnataka
+2025,Rice,October,133.43,High,Andhra Pradesh
+2025,Rice,January,38.4,Medium,Telangana
+2025,Onion,August,14.22,Low,Karnataka
+2025,Groundnut,December,103.03,High,Maharashtra
+2025,Cotton,August,148.32,High,Andhra Pradesh
+2025,Tomato,February,57.39,Medium,Maharashtra
+2025,Chilli,June,95.91,High,Punjab
+2025,Carrot,November,24.28,Low,Tamil Nadu
+2025,Beans,May,29.14,Low,Uttar Pradesh
+2025,Chilli,November,137.95,High,Rajasthan
+2025,Chilli,March,18.71,Low,Karnataka
+2025,Chilli,October,46.17,Medium,Gujarat
+2025,Carrot,August,27.03,Low,Gujarat
+2025,Cabbage,September,130.85,High,Maharashtra
+2025,Cotton,September,10.82,Low,Punjab
+2025,Chilli,October,109.73,High,Telangana
+2025,Beans,April,50.98,Medium,Kerala
+2025,Corn,May,134.74,High,Punjab
+2025,Rice,August,50.72,Medium,Maharashtra
+2025,Rice,May,109.71,High,Telangana
+2025,Wheat,August,113.62,High,Punjab
+2025,Sugarcane,May,39.88,Medium,Rajasthan
+2025,Wheat,January,57.0,Medium,Andhra Pradesh
+2025,Potato,October,10.65,Low,Uttar Pradesh
+2025,Potato,March,130.54,High,Kerala
+2025,Carrot,August,18.08,Low,Uttar Pradesh
+2025,Beans,April,11.38,Low,Uttar Pradesh
+2025,Carrot,January,79.01,High,Telangana
+2025,Carrot,June,61.03,Medium,Maharashtra
+2025,Groundnut,December,76.99,High,Rajasthan
+2025,Banana,March,48.03,Medium,Karnataka
+2025,Cabbage,June,44.78,Medium,Maharashtra
+2025,Rice,March,27.98,Low,Maharashtra
+2025,Carrot,June,98.4,High,Kerala
+2025,Groundnut,October,18.21,Low,Kerala
+2025,Wheat,December,124.04,High,Telangana
+2025,Potato,January,12.21,Low,Tamil Nadu
+2025,Mango,November,33.89,Medium,Tamil Nadu
+2025,Wheat,November,82.01,High,Karnataka
+2025,Potato,March,126.04,High,Maharashtra
+2025,Groundnut,January,89.22,High,Punjab
+2025,Wheat,June,11.76,Low,Gujarat
+2025,Tomato,July,21.98,Low,Gujarat
+2025,Potato,December,127.0,High,Kerala
+2025,Sugarcane,September,11.03,Low,Tamil Nadu
+2025,Tomato,December,74.74,High,Rajasthan
+2025,Chilli,April,75.44,High,Punjab
+2025,Corn,July,133.08,High,Telangana
+2025,Groundnut,October,85.13,High,Uttar Pradesh
+2025,Carrot,April,47.92,Medium,Rajasthan
+2025,Banana,January,51.08,Medium,Karnataka
+2025,Onion,May,27.41,Low,Punjab
+2025,Groundnut,September,30.95,Medium,Uttar Pradesh
+2025,Potato,June,24.5,Low,Maharashtra
+2025,Cabbage,December,124.0,High,Telangana
+2025,Chilli,February,64.16,Medium,Gujarat
+2025,Groundnut,January,63.08,Medium,Telangana
+2025,Wheat,February,10.57,Low,Kerala
+2025,Sugarcane,December,37.01,Medium,Andhra Pradesh
+2025,Carrot,February,28.94,Low,Telangana
+2025,Tomato,May,146.33,High,Gujarat
+2025,Cabbage,February,21.24,Low,Punjab
+2025,Beans,August,16.47,Low,Rajasthan
+2025,Potato,November,142.5,High,Karnataka
+2025,Sugarcane,August,10.46,Low,Andhra Pradesh
+2025,Sugarcane,May,117.51,High,Maharashtra
+2025,Cabbage,June,57.63,Medium,Punjab
+2025,Potato,November,139.59,High,Rajasthan
+2025,Mango,August,122.57,High,Karnataka
+2025,Wheat,April,68.42,Medium,Maharashtra
+2025,Potato,May,56.24,Medium,Gujarat
+2025,Mango,March,97.86,High,Kerala
+2025,Beans,February,29.56,Low,Gujarat
+2025,Chilli,February,73.42,High,Telangana
+2025,Onion,March,76.08,High,Uttar Pradesh
+2025,Beans,August,23.62,Low,Maharashtra
+2025,Beans,July,29.18,Low,Karnataka
+2025,Chilli,November,122.02,High,Telangana
+2025,Banana,April,125.54,High,Rajasthan
+2025,Groundnut,July,15.74,Low,Telangana
+2025,Groundnut,January,51.03,Medium,Gujarat
+2025,Banana,January,12.48,Low,Punjab
+2025,Rice,February,48.2,Medium,Rajasthan
+2025,Corn,December,14.65,Low,Kerala
+2025,Chilli,November,62.94,Medium,Gujarat
+2025,Mango,June,141.58,High,Telangana
+2025,Tomato,February,38.7,Medium,Karnataka
+2025,Cabbage,October,131.31,High,Andhra Pradesh
+2025,Chilli,February,47.48,Medium,Punjab
+2025,Chilli,May,77.44,High,Tamil Nadu
+2025,Chilli,January,27.79,Low,Rajasthan
+2025,Beans,February,29.89,Low,Rajasthan
+2025,Onion,May,143.29,High,Punjab
+2025,Wheat,July,15.03,Low,Kerala
+2025,Rice,June,54.37,Medium,Maharashtra
+2025,Potato,September,125.45,High,Maharashtra
+2025,Cabbage,November,15.65,Low,Maharashtra
+2025,Groundnut,December,37.13,Medium,Gujarat
+2025,Chilli,November,24.42,Low,Gujarat
+2025,Corn,March,40.68,Medium,Maharashtra
+2025,Tomato,September,12.58,Low,Uttar Pradesh
+2025,Chilli,November,29.02,Low,Punjab
+2025,Mango,August,97.97,High,Punjab
+2025,Chilli,January,30.52,Medium,Punjab
+2025,Chilli,February,101.72,High,Maharashtra
+2025,Mango,September,44.79,Medium,Punjab
+2025,Groundnut,February,31.27,Medium,Kerala
+2025,Sugarcane,August,37.24,Medium,Andhra Pradesh
+2025,Sugarcane,October,44.94,Medium,Kerala
+2025,Cabbage,February,84.52,High,Rajasthan
+2025,Potato,January,79.57,High,Telangana
+2025,Chilli,June,29.23,Low,Tamil Nadu
+2025,Beans,October,51.68,Medium,Rajasthan
+2025,Cabbage,February,85.39,High,Kerala
+2025,Mango,July,26.91,Low,Rajasthan
+2025,Wheat,November,75.21,High,Rajasthan
+2025,Potato,July,100.14,High,Rajasthan
+2025,Wheat,June,23.53,Low,Telangana
+2025,Potato,March,95.25,High,Punjab
+2025,Beans,May,10.93,Low,Karnataka
+2025,Beans,May,86.74,High,Gujarat
+2025,Chilli,May,63.67,Medium,Telangana
+2025,Mango,October,27.84,Low,Kerala
+2025,Rice,May,49.98,Medium,Maharashtra
+2025,Corn,June,15.02,Low,Telangana
+2025,Onion,March,37.59,Medium,Rajasthan
+2025,Cabbage,January,25.66,Low,Karnataka
+2025,Onion,June,68.53,Medium,Rajasthan
+2025,Potato,December,83.84,High,Uttar Pradesh
+2025,Potato,March,56.91,Medium,Andhra Pradesh
+2025,Mango,October,12.17,Low,Maharashtra
+2025,Beans,March,21.16,Low,Punjab
+2025,Corn,December,93.81,High,Rajasthan
+2025,Onion,February,67.58,Medium,Telangana
+2025,Cotton,April,62.82,Medium,Maharashtra
+2025,Banana,May,64.74,Medium,Punjab
+2025,Chilli,September,15.78,Low,Punjab
+2025,Groundnut,August,138.44,High,Kerala
+2025,Corn,March,49.83,Medium,Gujarat
+2025,Carrot,October,19.98,Low,Kerala
+2025,Banana,July,10.83,Low,Maharashtra
+2025,Onion,November,11.27,Low,Kerala
+2025,Wheat,March,29.35,Low,Kerala
+2025,Mango,May,25.01,Low,Kerala
+2025,Chilli,May,17.19,Low,Punjab
+2025,Beans,September,65.98,Medium,Maharashtra
+2025,Tomato,December,25.46,Low,Maharashtra
+2025,Corn,September,148.94,High,Punjab
+2025,Banana,July,13.15,Low,Karnataka
+2025,Rice,March,56.52,Medium,Gujarat
+2025,Banana,June,55.91,Medium,Tamil Nadu
+2025,Tomato,February,104.95,High,Punjab
+2025,Groundnut,January,30.46,Medium,Punjab
+2025,Beans,January,63.75,Medium,Gujarat
+2025,Cotton,January,120.26,High,Andhra Pradesh
+2025,Mango,November,22.07,Low,Karnataka
+2025,Groundnut,March,15.02,Low,Maharashtra
+2025,Banana,March,38.12,Medium,Andhra Pradesh
+2025,Wheat,February,115.32,High,Telangana
+2025,Onion,May,13.96,Low,Karnataka
+2025,Banana,July,49.99,Medium,Tamil Nadu
+2025,Chilli,September,71.07,High,Andhra Pradesh
+2025,Rice,November,117.61,High,Uttar Pradesh
+2025,Wheat,October,10.61,Low,Punjab
+2025,Wheat,March,38.02,Medium,Rajasthan
+2025,Mango,April,82.59,High,Tamil Nadu
+2025,Tomato,May,25.8,Low,Gujarat
+2025,Banana,March,21.77,Low,Karnataka
+2025,Chilli,December,38.81,Medium,Kerala
+2025,Onion,January,138.71,High,Karnataka
+2025,Banana,November,83.91,High,Tamil Nadu
+2025,Sugarcane,November,106.9,High,Tamil Nadu
+2025,Mango,January,22.88,Low,Rajasthan
+2025,Chilli,December,43.41,Medium,Rajasthan
+2025,Cotton,August,82.11,High,Gujarat
+2025,Chilli,June,57.85,Medium,Karnataka
+2025,Corn,January,15.51,Low,Maharashtra
+2025,Banana,August,28.27,Low,Gujarat
+2025,Groundnut,September,111.23,High,Kerala
+2025,Cotton,June,127.69,High,Karnataka
+2025,Corn,February,101.96,High,Punjab
+2025,Potato,May,17.53,Low,Telangana
+2025,Mango,June,128.06,High,Kerala
+2025,Corn,June,18.24,Low,Tamil Nadu
+2025,Mango,April,53.31,Medium,Uttar Pradesh
+2025,Corn,January,29.56,Low,Punjab
+2025,Cotton,January,15.95,Low,Uttar Pradesh
+2025,Groundnut,March,16.99,Low,Telangana
+2025,Onion,September,28.59,Low,Tamil Nadu
+2025,Cotton,March,69.91,Medium,Punjab
+2025,Cotton,January,16.35,Low,Tamil Nadu
+2025,Mango,May,42.05,Medium,Maharashtra
+2025,Beans,May,84.89,High,Andhra Pradesh
+2025,Cotton,January,67.66,Medium,Punjab
+2025,Cabbage,June,81.04,High,Kerala
+2025,Cotton,April,85.02,High,Karnataka
+2025,Cabbage,November,107.01,High,Uttar Pradesh
+2025,Sugarcane,July,26.28,Low,Telangana
+2025,Chilli,January,17.38,Low,Maharashtra
+2025,Carrot,June,23.78,Low,Uttar Pradesh
+2025,Tomato,August,59.75,Medium,Punjab
+2025,Groundnut,September,11.06,Low,Punjab
+2025,Corn,June,27.47,Low,Telangana
+2025,Groundnut,November,14.64,Low,Rajasthan
+2025,Corn,November,43.92,Medium,Tamil Nadu
+2025,Rice,June,119.97,High,Telangana
+2025,Potato,December,108.19,High,Karnataka
+2025,Wheat,December,16.15,Low,Tamil Nadu
+2025,Rice,August,32.23,Medium,Rajasthan
+2025,Tomato,March,14.84,Low,Kerala
+2025,Chilli,January,129.11,High,Punjab
+2025,Onion,December,90.43,High,Rajasthan
+2025,Potato,February,45.25,Medium,Telangana
+2025,Sugarcane,March,133.82,High,Andhra Pradesh
+2025,Wheat,April,75.93,High,Karnataka
+2025,Groundnut,September,24.6,Low,Maharashtra
+2025,Tomato,August,69.65,Medium,Tamil Nadu
+2025,Sugarcane,November,34.57,Medium,Telangana
+2025,Rice,August,12.67,Low,Telangana
+2025,Banana,November,62.85,Medium,Rajasthan
+2025,Wheat,August,58.21,Medium,Uttar Pradesh
+2025,Sugarcane,February,78.55,High,Karnataka
+2025,Corn,August,102.37,High,Rajasthan
+2025,Sugarcane,February,52.38,Medium,Maharashtra
+2025,Corn,March,54.8,Medium,Andhra Pradesh
+2025,Onion,April,66.59,Medium,Gujarat
+2025,Corn,January,67.09,Medium,Telangana
+2025,Rice,August,108.0,High,Maharashtra
+2025,Tomato,April,54.22,Medium,Tamil Nadu
+2025,Rice,August,133.93,High,Maharashtra
+2025,Sugarcane,September,37.97,Medium,Rajasthan
+2025,Groundnut,November,59.95,Medium,Uttar Pradesh
+2025,Rice,December,130.26,High,Punjab
+2025,Rice,April,41.1,Medium,Tamil Nadu
+2025,Rice,May,34.88,Medium,Andhra Pradesh
+2025,Corn,November,18.21,Low,Gujarat
+2025,Cabbage,May,27.83,Low,Maharashtra
+2025,Groundnut,May,42.62,Medium,Andhra Pradesh
+2025,Rice,May,11.05,Low,Andhra Pradesh
+2025,Sugarcane,April,19.09,Low,Uttar Pradesh
+2025,Rice,October,54.5,Medium,Kerala
+2025,Beans,June,25.99,Low,Maharashtra
+2025,Cotton,March,16.61,Low,Tamil Nadu
+2025,Corn,July,122.72,High,Gujarat
+2025,Sugarcane,September,20.36,Low,Maharashtra
+2025,Cabbage,August,17.04,Low,Maharashtra
+2025,Wheat,March,72.56,High,Uttar Pradesh
+2025,Onion,April,71.47,High,Uttar Pradesh
+2025,Wheat,July,91.11,High,Karnataka
+2025,Banana,July,23.82,Low,Telangana
+2025,Cabbage,October,18.37,Low,Tamil Nadu
+2025,Banana,April,45.27,Medium,Gujarat
+2025,Cabbage,September,13.24,Low,Kerala
+2025,Cabbage,July,24.42,Low,Maharashtra
+2025,Onion,August,140.69,High,Uttar Pradesh
+2025,Beans,December,115.2,High,Punjab
+2025,Sugarcane,March,31.24,Medium,Andhra Pradesh
+2025,Corn,October,42.39,Medium,Gujarat
+2025,Chilli,June,127.08,High,Maharashtra
+2025,Rice,April,129.39,High,Gujarat
+2025,Tomato,November,13.3,Low,Uttar Pradesh
+2025,Tomato,April,24.16,Low,Maharashtra
+2025,Banana,March,53.61,Medium,Karnataka
+2025,Chilli,January,32.23,Medium,Gujarat
+2025,Beans,July,13.24,Low,Maharashtra
+2025,Sugarcane,August,104.78,High,Maharashtra
+2025,Mango,May,13.1,Low,Kerala
+2025,Rice,April,27.82,Low,Andhra Pradesh
+2025,Rice,January,38.57,Medium,Uttar Pradesh
+2025,Onion,December,136.45,High,Maharashtra
+2025,Banana,September,12.32,Low,Punjab
+2025,Potato,April,19.71,Low,Rajasthan
+2025,Banana,September,25.55,Low,Punjab
+2025,Sugarcane,May,74.77,High,Karnataka
+2025,Cotton,December,40.16,Medium,Gujarat
+2025,Beans,April,148.46,High,Telangana
+2025,Tomato,November,36.28,Medium,Uttar Pradesh
+2025,Potato,April,115.65,High,Telangana
+2025,Potato,April,43.41,Medium,Gujarat
+2025,Wheat,September,93.14,High,Kerala
+2025,Cabbage,August,11.24,Low,Telangana
+2025,Cotton,October,48.53,Medium,Tamil Nadu
+2025,Onion,May,142.71,High,Andhra Pradesh
+2025,Beans,November,68.24,Medium,Andhra Pradesh
+2025,Beans,January,15.4,Low,Andhra Pradesh
+2025,Banana,April,54.67,Medium,Rajasthan
+2025,Tomato,September,26.79,Low,Tamil Nadu
+2025,Rice,March,27.94,Low,Rajasthan
+2025,Tomato,February,123.54,High,Rajasthan
+2025,Wheat,June,135.66,High,Tamil Nadu
+2025,Banana,December,28.46,Low,Maharashtra
+2025,Rice,August,16.86,Low,Maharashtra
+2025,Onion,October,54.04,Medium,Rajasthan
+2025,Cotton,June,58.32,Medium,Tamil Nadu
+2025,Potato,October,11.15,Low,Kerala
+2025,Corn,October,144.01,High,Maharashtra
+2025,Wheat,October,11.4,Low,Maharashtra
+2025,Groundnut,June,60.66,Medium,Tamil Nadu
+2025,Banana,July,122.46,High,Telangana
+2025,Beans,October,134.19,High,Maharashtra
+2025,Beans,December,13.26,Low,Uttar Pradesh
+2025,Mango,November,146.33,High,Telangana
+2025,Rice,April,136.35,High,Andhra Pradesh
+2025,Mango,April,13.54,Low,Telangana
+2025,Groundnut,September,19.86,Low,Uttar Pradesh
+2025,Cotton,October,20.0,Low,Karnataka
+2025,Cabbage,October,14.03,Low,Gujarat
+2025,Tomato,April,56.36,Medium,Tamil Nadu
+2025,Tomato,January,19.89,Low,Telangana
+2025,Onion,July,46.33,Medium,Tamil Nadu
+2025,Groundnut,May,44.56,Medium,Karnataka
+2025,Banana,October,50.29,Medium,Punjab
+2025,Cabbage,October,80.71,High,Gujarat
+2025,Sugarcane,July,146.48,High,Punjab
+2025,Carrot,June,102.42,High,Gujarat
+2025,Mango,November,102.96,High,Karnataka
+2025,Cabbage,September,33.75,Medium,Uttar Pradesh
+2025,Sugarcane,February,66.75,Medium,Tamil Nadu
+2025,Carrot,October,56.16,Medium,Rajasthan
+2025,Onion,August,29.24,Low,Punjab
+2025,Carrot,January,11.79,Low,Gujarat
+2025,Potato,March,28.43,Low,Kerala
+2025,Corn,December,28.98,Low,Uttar Pradesh
+2025,Wheat,July,70.53,High,Rajasthan
+2025,Onion,November,62.7,Medium,Punjab
+2025,Rice,September,101.96,High,Punjab
+2025,Rice,August,130.04,High,Punjab
+2025,Banana,March,15.82,Low,Punjab
+2025,Cotton,May,16.01,Low,Gujarat
+2025,Beans,May,122.13,High,Rajasthan
+2025,Chilli,June,60.38,Medium,Rajasthan
+2025,Wheat,March,37.73,Medium,Punjab
+2025,Potato,March,13.95,Low,Karnataka
+2025,Wheat,October,87.22,High,Gujarat
+2025,Corn,March,72.57,High,Andhra Pradesh
+2025,Wheat,July,13.27,Low,Maharashtra
+2025,Corn,November,105.41,High,Kerala
+2025,Cotton,July,46.3,Medium,Tamil Nadu
+2025,Tomato,May,23.29,Low,Gujarat
+2025,Tomato,January,56.97,Medium,Andhra Pradesh
+2025,Groundnut,August,144.65,High,Telangana
+2025,Chilli,January,17.8,Low,Punjab
+2025,Tomato,May,36.14,Medium,Uttar Pradesh
+2025,Wheat,July,37.51,Medium,Punjab
+2025,Rice,April,13.97,Low,Karnataka
+2025,Potato,January,41.71,Medium,Rajasthan
+2025,Cabbage,September,43.32,Medium,Kerala
+2025,Beans,May,111.13,High,Punjab
+2025,Cabbage,June,60.8,Medium,Punjab
+2025,Cotton,September,53.38,Medium,Gujarat
+2025,Cotton,January,133.44,High,Kerala
+2025,Corn,August,109.63,High,Rajasthan
+2025,Rice,July,25.34,Low,Punjab
+2025,Banana,February,29.14,Low,Maharashtra
+2025,Banana,August,13.71,Low,Karnataka
+2025,Corn,March,36.84,Medium,Punjab
+2025,Wheat,August,63.46,Medium,Uttar Pradesh
+2025,Chilli,June,26.57,Low,Kerala
+2025,Beans,June,30.59,Medium,Rajasthan
+2025,Potato,October,10.6,Low,Karnataka
+2025,Mango,February,112.75,High,Andhra Pradesh
+2025,Chilli,February,73.75,High,Rajasthan
+2025,Sugarcane,May,61.65,Medium,Tamil Nadu
+2025,Banana,May,24.88,Low,Karnataka
+2025,Potato,July,134.01,High,Rajasthan
+2025,Banana,March,54.11,Medium,Uttar Pradesh
+2025,Chilli,August,29.2,Low,Tamil Nadu
+2025,Rice,September,60.64,Medium,Maharashtra
+2025,Chilli,June,21.51,Low,Punjab
+2025,Beans,April,97.34,High,Karnataka
+2025,Carrot,October,46.25,Medium,Rajasthan
+2025,Wheat,July,92.27,High,Andhra Pradesh
+2025,Banana,May,25.13,Low,Kerala
+2025,Cotton,April,67.44,Medium,Telangana
+2025,Cabbage,January,27.23,Low,Uttar Pradesh
+2025,Cabbage,July,99.11,High,Maharashtra
+2025,Tomato,October,57.53,Medium,Maharashtra
+2025,Tomato,September,38.76,Medium,Andhra Pradesh
+2025,Mango,August,101.89,High,Kerala
+2025,Onion,August,48.1,Medium,Maharashtra
+2025,Banana,June,140.09,High,Kerala
+2025,Cotton,June,19.98,Low,Rajasthan
+2025,Corn,October,20.18,Low,Punjab
+2025,Rice,May,22.21,Low,Telangana
+2025,Mango,January,39.66,Medium,Maharashtra
+2025,Rice,August,36.46,Medium,Kerala
+2025,Carrot,April,47.34,Medium,Gujarat
+2025,Carrot,September,15.95,Low,Uttar Pradesh
+2025,Rice,December,99.16,High,Gujarat
