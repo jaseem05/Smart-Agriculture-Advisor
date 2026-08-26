@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cefd560e-d27f-4060-b228-c91346bf4896" />
+
 # Smart Agriculture Advisor
 
 A machine learning-based web application that provides crop recommendations and predicts market prices based on agricultural and market conditions.
